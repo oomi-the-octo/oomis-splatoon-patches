@@ -1,0 +1,117 @@
+@nsobid-0F129135D8A7621C9E4940B0C3808BF0
+#010000a00218e000 Splatoon 2 Global Testfire
+
+@flag offset_shift 0x100
+
+//Game::Player::isInDebugMove_UpDown = true [oomi_the_octo]
+@disabled
+0072F488 20008052
+
+//Game::Player::isNewMethod_Test_NewWallClimbAllOff = true (???) [oomi_the_octo]
+@disabled
+007496E4 20008052
+
+//FreeTestPlayerNum = 1 (No Bots.) [oomi_the_octo]
+@disabled
+000FD468 28008052
+
+//FreeTestPlayerNum = 4 [oomi_the_octo]
+@disabled
+000FD468 88008052
+
+//Show Enemy Nametags Only [oomi_the_octo]
+@disabled
+0073C420 BF060071
+
+//Solo Private Battle isn't working... yet.
+//Private Battle/Salmon Run Alone [oomi_the_octo]
+@disabled
+009D878C 1F2003D5
+009BE390 1F2003D5
+
+//No Bomb Throwing Cooldown [oomi_the_octo]
+@disabled
+007B0A14 13008052
+007202C8 C0035FD6
+
+//Game::Player::isNewMethod_Test_PaintGaugeDie = false (???) [oomi_the_octo]
+@disabled
+0071EBE8 00008052
+
+//Game::Player::isNewMethod_Test_RollerDash = false (???) [oomi_the_octo]
+@disabled
+00739828 00008052
+
+//Marking ESP (All) [oomi_the_octo]
+@disabled
+0074A894 20008052
+
+//Game::Player::isCameraFocused = false (???) [oomi_the_octo]
+@disabled
+0074B0A4 00008052
+
+//isInTrouble_WaterMelt = true [oomi_the_octo]
+@disabled
+0074BEB4 20008052
+
+// This allows you to use the "ColTest" scene, it won't load much as the render code is scrapped.
+// Construct ColTest scene in Cstm::newScene<LobbyForShow::Scene>(sead::Heap *)
+@disabled
+00162228 00008252
+00162238 86B12094
+0246DC22 "ColTest" // Renames "LobbyForShow"
+
+// Construct PlayerViewer scene in Cstm::newScene<ThanksForShow::Scene>(sead::Heap *)
+@disabled
+001621D4 00008252
+001621E4 673A2294
+//below is more patches to add a newScene function for PlayerViewer
+01285910 60E69702
+01285920 A4211600
+
+// Allows you to use the Shop scene when using Debug Menu Patches.
+// Construct Shop scene in Cstm::newScene<TitleForShow::Scene>(sead::Heap *)
+@disabled
+00162180 00008252
+00162190 36842294
+0246DC3D "Shop (real)" // Renames "TitleForShow"
+
+// Unlock all rules [Originally by OatmealDome, ashbinary, DiamCreeper23]
+@disabled
+009CFC14 E0031F2A
+009CFC7C 20008052
+
+// "comeOn" & "nice" Signal from all teams (i need to test it with someone lol) [oomi_the_octo]
+@disabled
+00775208 1F2003D5
+007757B4 1F2003D5
+
+// -- Save Unlock Cheats (Keep enabled on to keep everything.) --
+@disabled
+00000000 00000000
+
+// Save Unlock Weapons [oomi_the_octo]
+@disabled
+00107880 20008052
+
+// Save Unlock Gear (CRASHES, DO NOT USE THIS.) [oomi_the_octo]
+@disabled
+00107E80 20008052
+
+// Translation might not be perfect, did my best. Sorry!
+// More English translation for Debug Menu [oomi_the_octo]
+@enabled
+024C4A8D "You can use a debug or normal controller"
+024C4ACA "[Moving]"
+024C4AD5 "The L-Stick & D-Pad does the same thing"
+024C4B00 "Move the cursor with D-Pad & Left Joystick"
+024C4B2E "Hold Y while moving the D-Pad for shortcut movement"
+024C4B74 "[Selecting]"
+024C4B91 "Press A to jump to a scene"
+024C4BC2 "Press A to select maps, weapons, etc."
+024C4BFF "Use Up & Down to change personal settings"
+024C4C30 "Press B to return"
+024C4C43 "Switch between display & file names with R-Stick"
+024C4C86 "Press + to load selected map in the appropirate scene"
+024C4CCF "Press - to load FreeTest"
+024C4CF0 "Press X to change scene mode"
