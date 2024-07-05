@@ -1,2 +1,2 @@
-# oomis-s2-patches
-Some patches i made for Splatoon 2 ig
+# My Splatoon 2 Patches 
+This contains my Splatoon 2 patches. If you wanna use them, go ahead!
