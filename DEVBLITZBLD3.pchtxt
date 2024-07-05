@@ -3,54 +3,54 @@
 
 @flag offset_shift 0x100
 
-//Game::Player::isInDebugMove_UpDown = true [oomi_the_octo]
+// Game::Player::isInDebugMove_UpDown = true [oomi_the_octo]
 @disabled
 0072F488 20008052
 
-//Game::Player::isNewMethod_Test_NewWallClimbAllOff = true (???) [oomi_the_octo]
+// Game::Player::isNewMethod_Test_NewWallClimbAllOff = true (???) [oomi_the_octo]
 @disabled
 007496E4 20008052
 
-//FreeTestPlayerNum = 1 (No Bots.) [oomi_the_octo]
+// FreeTestPlayerNum = 1 (No Bots.) [oomi_the_octo]
 @disabled
 000FD468 28008052
 
-//FreeTestPlayerNum = 4 [oomi_the_octo]
+// FreeTestPlayerNum = 4 [oomi_the_octo]
 @disabled
 000FD468 88008052
 
-//Show Enemy Nametags Only [oomi_the_octo]
+// Show Enemy Nametags Only [oomi_the_octo]
 @disabled
 0073C420 BF060071
 
-//Solo Private Battle isn't working... yet.
-//Private Battle/Salmon Run Alone [oomi_the_octo]
+// Solo Private Battle isn't working... yet.
+// Private Battle/Salmon Run Alone [oomi_the_octo]
 @disabled
 009D878C 1F2003D5
 009BE390 1F2003D5
 
-//No Bomb Throwing Cooldown [oomi_the_octo]
+// No Bomb Throwing Cooldown [oomi_the_octo]
 @disabled
 007B0A14 13008052
 007202C8 C0035FD6
 
-//Game::Player::isNewMethod_Test_PaintGaugeDie = false (???) [oomi_the_octo]
+// Game::Player::isNewMethod_Test_PaintGaugeDie = false (???) [oomi_the_octo]
 @disabled
 0071EBE8 00008052
 
-//Game::Player::isNewMethod_Test_RollerDash = false (???) [oomi_the_octo]
+// Game::Player::isNewMethod_Test_RollerDash = false (???) [oomi_the_octo]
 @disabled
 00739828 00008052
 
-//Marking ESP (All) [oomi_the_octo]
+// Marking ESP (All) [oomi_the_octo]
 @disabled
 0074A894 20008052
 
-//Game::Player::isCameraFocused = false (???) [oomi_the_octo]
+// Game::Player::isCameraFocused = false (???) [oomi_the_octo]
 @disabled
 0074B0A4 00008052
 
-//isInTrouble_WaterMelt = true [oomi_the_octo]
+// isInTrouble_WaterMelt = true [oomi_the_octo]
 @disabled
 0074BEB4 20008052
 
