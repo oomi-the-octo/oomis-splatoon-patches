@@ -107,6 +107,10 @@
 @disabled
 00000000 00000000
 
+// Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
+@disabled
+00FFD534 1F2003D5
+
 // Translation might not be perfect, did my best. Sorry!
 // More English translation for Debug Menu [oomi_the_octo]
 @enabled
