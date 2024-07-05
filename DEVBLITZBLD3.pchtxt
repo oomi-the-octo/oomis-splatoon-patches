@@ -86,6 +86,11 @@
 00775208 1F2003D5
 007757B4 1F2003D5
 
+// This crashes, since the field "Fld_Ditch00" is missing.
+// Use E3 2017 TutorialForShow [oomi_the_octo]
+@disabled
+0246C6F9 "Fld_TutorialShow00_Ttr"
+
 // -- Save Unlock Cheats (Experimental) --
 @disabled
 00000000 00000000
@@ -97,6 +102,10 @@
 // Save Unlock Gear (CRASHES, DO NOT USE THIS.) [oomi_the_octo]
 @disabled
 00107E80 20008052
+
+// -- Debug Related --
+@disabled
+00000000 00000000
 
 // Translation might not be perfect, did my best. Sorry!
 // More English translation for Debug Menu [oomi_the_octo]
