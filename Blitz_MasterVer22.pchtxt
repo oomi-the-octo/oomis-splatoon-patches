@@ -1,0 +1,32 @@
+@nsobid-034C8FA7A63B7A87F96F408B2AEFFF6C
+# Splatoon 2 3.1.0
+
+@flag offset_shift 0x100
+
+// ESP Marking (All) [oomi_the_octo]
+@disabled
+00E55BAC 20008052
+
+// Ink Tank Changer = Tnk_Coop (crashes) [oomi_the_octo]
+@disabled
+03711D38 "Tnk_Coop"
+
+// Use Save Data from "DebugUnderPilot/SaveData/save.dat" (Broken) [oomi_the_octo]
+@disabled
+0123180C 68008052
+
+// MovelessPlayerDetectSec set to 39321 sec. [oomi_the_octo]
+@disabled
+00DD5F14 29339352
+
+// Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
+@disabled
+019BF9C0 1F2003D5
+
+// FreeTestPlayerNum = 1 (No Bots.) [oomi_the_octo]
+@disabled
+00187054 28008052
+
+// FreeTestPlayerNum = 4 [oomi_the_octo]
+@disabled
+00187054 88008052
