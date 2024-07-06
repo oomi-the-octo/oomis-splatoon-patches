@@ -30,3 +30,11 @@
 // FreeTestPlayerNum = 4 [oomi_the_octo]
 @disabled
 00187054 88008052
+
+// This allows you to use the "ColTest" scene, it will crash anyway.
+// You'll also need a file in the Model folder called "Gnd_ColTest_01.Nin_NX_NVN.szs" 
+// Construct GndColTest scene in Cstm::newScene<LobbyForShow::Scene>(sead::Heap *)
+@disabled
+002273A4 00008252
+002273B4 E8914094
+03715883 "GndColTest"
