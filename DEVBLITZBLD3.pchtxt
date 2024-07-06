@@ -100,15 +100,15 @@
 @enabled
 0246B80E "Tnk_Coop"
 
-// -- Save Unlock Cheats (Experimental) --
+// -- Temporary Save Unlock Cheats --
 @disabled
 00000000 00000000
 
-// Save Unlock Weapons [oomi_the_octo]
+// Temporary Save Unlock Weapons [oomi_the_octo]
 @disabled
 00107880 20008052
 
-// Save Unlock Gear (CRASHES, DO NOT USE THIS.) [oomi_the_octo]
+// Temporary Save Unlock Gear (CRASHES, DO NOT USE THIS.) [oomi_the_octo]
 @disabled
 00107E80 20008052
 
