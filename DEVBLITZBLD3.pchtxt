@@ -23,6 +23,10 @@
 @disabled
 0073C420 BF060071
 
+// See Everyone's Nametags [oomi_the_octo]
+@enabled
+0073C420 1F050071
+
 // Solo Private Battle isn't working... yet.
 // Private Battle/Salmon Run Alone [oomi_the_octo]
 @disabled
