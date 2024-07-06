@@ -38,3 +38,7 @@
 002273A4 00008252
 002273B4 E8914094
 03715883 "GndColTest"
+
+// See Everyone's Nametags [oomi_the_octo]
+@enabled
+00E440C4 3F010071
