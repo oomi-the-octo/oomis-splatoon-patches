@@ -137,3 +137,25 @@
 024C4C86 "Press + to load selected map in the appropirate scene"
 024C4CCF "Press - to load FreeTest"
 024C4CF0 "Press X to change scene mode"
+
+// This is useful if you plan on restoring the plaza for the global testfire.
+// If otherwise not, leave these patches disabled.
+// -- Plaza Anti Crashes --
+@disabled
+00000000 00000000
+
+// Ignore Amiibo stuff for Plaza [oomi_the_octo]
+@enabled
+008ADAD4 20008052
+008ADAD8 C0035FD6
+
+// Anti Plaza Title Firstboot crash [oomi_the_octo]
+@enabled
+008AAA10 1F2003D5
+008AAA38 1F2003D5
+008AAA58 1F2003D5
+
+// Stop "Obj_PlazaTV%_anim" from loading [oomi_the_octo]
+@enabled
+0066B770 20008052
+0066B774 C0035FD6
