@@ -157,3 +157,13 @@
 // Stop "Obj_PlazaTV%_anim" from loading [oomi_the_octo]
 @enabled
 0066B770 20008052C0035FD6
+
+// -- Other Patches --
+
+// This can be enabled if you restore the VSLobby. Else keep disabled.
+// Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
+@disabled
+010B9FAC 20008052C0035FD6
+00115670 20008052C0035FD6
+001A7018 20008052C0035FD6
+0010FC3C 20008052C0035FD6
