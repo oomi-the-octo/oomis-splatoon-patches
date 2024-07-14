@@ -146,8 +146,7 @@
 
 // Ignore Amiibo stuff for Plaza [oomi_the_octo]
 @enabled
-008ADAD4 20008052
-008ADAD8 C0035FD6
+008ADAD4 20008052C0035FD6
 
 // Anti Plaza Title Firstboot crash [oomi_the_octo]
 @enabled
@@ -157,5 +156,4 @@
 
 // Stop "Obj_PlazaTV%_anim" from loading [oomi_the_octo]
 @enabled
-0066B770 20008052
-0066B774 C0035FD6
+0066B770 20008052C0035FD6
