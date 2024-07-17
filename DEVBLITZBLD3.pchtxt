@@ -157,14 +157,3 @@
 // Stop "Obj_PlazaTV%_anim" from loading [oomi_the_octo]
 @enabled
 0066B770 20008052C0035FD6
-
-// -- Other Patches --
-
-// Kinda broken, keep disabled. Unless if you wanna try and restore the VSLobby.
-// You will need to have "Guest Internet Access" enabled if you're on ryujinx.
-// Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
-@disabled
-010B9FAC 20008052C0035FD6
-00115670 20008052C0035FD6
-001A7018 20008052C0035FD6
-0010FC3C 20008052C0035FD6
