@@ -160,7 +160,7 @@
 
 // -- Other Patches --
 
-// This can be enabled if you restore the VSLobby. Else keep disabled.
+// Kinda broken, keep disabled. Unless if you wanna try and restore the VSLobby.
 // You will need to have "Guest Internet Access" enabled if you're on ryujinx.
 // Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
 @disabled
