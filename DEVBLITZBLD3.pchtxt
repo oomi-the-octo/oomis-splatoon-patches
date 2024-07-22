@@ -148,6 +148,10 @@
 @enabled
 008ADAD4 20008052C0035FD6
 
+// Anti Plaza News Crash [oomi_the_octo]
+@enabled
+006695A4 20008052C0035FD6
+
 // Stop "Obj_PlazaTV%_anim" from loading [oomi_the_octo]
 @enabled
 0066B770 20008052C0035FD6
