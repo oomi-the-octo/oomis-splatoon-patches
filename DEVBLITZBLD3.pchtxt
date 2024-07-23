@@ -81,7 +81,7 @@
 @enabled
 001621D4 00008252
 001621E4 5FCB2294
-0246DC4A "UdgwTest"
+0246DC4A "UdgwTest" // Renames "ThanksForShow"
 
 // Allows you to use the Shop scene when using Debug Menu Patches.
 // Construct Shop scene in Cstm::newScene<TitleForShow::Scene>(sead::Heap *)
