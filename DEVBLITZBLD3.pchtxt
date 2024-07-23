@@ -74,6 +74,15 @@
 01285910 60E69702
 01285920 A4211600
 
+// You will need to use the Splatoon 2 1.0.0 layouts for this. The link is below. 
+// Please disable PlayerViewer if you are going to use this patch.
+// https://mega.nz/file/ScpFDCKC#vO6u9pKeNtX2vetpmx2EI5gf7h-ngNUc1ztCgsezYqk
+// Construct UdgwTest scene in Cstm::newScene<ThanksForShow::Scene>(sead::Heap *)
+@enabled
+001621D4 00008252
+001621E4 5FCB2294
+0246DC4A "UdgwTest"
+
 // Allows you to use the Shop scene when using Debug Menu Patches.
 // Construct Shop scene in Cstm::newScene<TitleForShow::Scene>(sead::Heap *)
 @disabled
