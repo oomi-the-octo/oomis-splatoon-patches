@@ -164,3 +164,22 @@
 // Stop "Obj_PlazaTV%_anim" from loading [oomi_the_octo]
 @enabled
 0066B770 20008052C0035FD6
+
+// -- Network Patches --
+
+/ This can probably cause desyncs.
+// Set "UnreliableSendInterval" to 0 [oomi_the_octo]
+@disabled
+0015C250 1F2003D5
+0015C254 08008052
+
+// Recommended version, kinda improves network matches, unless your wifi is shit, it won't do a lot.
+// Set "UnreliableSendInterval" to 1 (Recommended One) [oomi_the_octo]
+@disabled
+0015C250 1F2003D5
+0015C254 28008052
+
+// Set "UnreliableSendInterval" to 180 (Fake Lag) [oomi_the_octo]
+@disabled
+0015C250 1F2003D5
+0015C254 08108052
