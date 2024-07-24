@@ -167,6 +167,11 @@
 
 // -- Network Patches --
 
+// You will need a dump of Splatoon 2 BCAT rotation for this.
+// Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
+@disabled
+001125B0 1F2003D548008052
+
 / This can probably cause desyncs.
 // Set "UnreliableSendInterval" to 0 [oomi_the_octo]
 @disabled
