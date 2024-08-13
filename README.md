@@ -8,3 +8,5 @@ This contains my Splatoon 2 patches. If you wanna use them, go ahead!
 > Credits:
 
 [agent3player](https://x.com/3_player95950) - Made the Splatfest patch for "DEVBLITZBLD3."
+
+[YoshiCrystal](https://github.com/YoshiCrystal9) - Made the fullOpen save patch for "DEVBLITZBLD3."
