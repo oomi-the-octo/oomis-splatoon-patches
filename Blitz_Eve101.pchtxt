@@ -1,0 +1,20 @@
+@nsobid-68202F1AE35348E476523EA2F6E36AA4
+# Splatoon 2 Splatfest World Premiere 1.0.1
+
+@flag offset_shift 0x100
+
+// Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
+@enabled
+00138FB8 E0031F2AC0035FD6
+
+// Set ChangeLanMatchInBoot to true [oomi_the_octo]
+@enabled
+00B2BF48 1F2003D528008052
+
+// Force "Lp::Utl::Matching::isLogIn" to be true [oomi_the_octo]
+@enabled
+01307B3C 20008052C0035FD6
+
+// Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
+@enabled
+0124E344 1F2003D5
