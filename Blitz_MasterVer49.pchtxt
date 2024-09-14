@@ -10,3 +10,7 @@
 // Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
 @disabled
 00327EA0 48008052
+
+// Force "Lp::Utl::Matching::isLogIn" to be true [oomi_the_octo]
+@enabled
+019F2888 20008052C0035FD6
