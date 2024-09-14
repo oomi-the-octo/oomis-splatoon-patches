@@ -38,3 +38,7 @@
 // Set RomType to ShowDL [oomi_the_octo]
 @disabled
 000807B8 E0008052C0035FD6
+
+// Ink Tank Changer [oomi_the_octo]
+@disabled
+0285AE50 "Tnk_Coop"
