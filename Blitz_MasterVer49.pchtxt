@@ -1,0 +1,12 @@
+@nsobid-03DCAD95E1AC643072F3A684F6740C85
+# Splatoon 2 5.5.1
+
+@flag offset_shift 0x100
+
+// (USELESS) Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
+@disabled
+01967D8C 1F2003D5
+
+// Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
+@disabled
+00327EA0 48008052
