@@ -3,6 +3,10 @@
 
 @flag offset_shift 0x100
 
+// Game::Player::isInDebugMove_UpDown = true [oomi_the_octo]
+@enabled
+00899220 20008052
+
 // Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
 @enabled
 00138FB8 E0031F2AC0035FD6
