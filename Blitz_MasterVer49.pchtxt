@@ -3,7 +3,7 @@
 
 @flag offset_shift 0x100
 
-// (USELESS) Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
+// (USELESS atm.) Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
 @disabled
 01967D8C 1F2003D5
 
