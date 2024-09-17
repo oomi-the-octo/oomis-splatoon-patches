@@ -6,6 +6,7 @@ This contains my public Splatoon 2 patches.
 - [Blitz_MasterVer22](https://github.com/oomi-the-octo/oomis-s2-patches/blob/main/Blitz_MasterVer22.pchtxt) = Splatoon 2 3.1.0 patches.
 - [Blitz_MasterVer49](https://github.com/oomi-the-octo/oomis-s2-patches/blob/main/Blitz_MasterVer49.pchtxt) = Splatoon 2 5.5.1 patches.
 - [DEVBLITZBLD3](https://github.com/oomi-the-octo/oomis-s2-patches/blob/main/DEVBLITZBLD3.pchtxt) = Splatoon 2 Global Testfire patches.
+- [Blitz_MasterVer43(Trial)](https://github.com/oomi-the-octo/oomis-s2-patches/blob/main/Blitz_MasterVer43(Trial).pchtxt) = Splatoon 2 Special Demo 2020 patches.
 > Credits:
 
 [agent3player](https://x.com/3_player95950) - Made the Splatfest patch for "DEVBLITZBLD3."
