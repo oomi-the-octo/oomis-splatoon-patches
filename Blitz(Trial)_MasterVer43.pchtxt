@@ -1,0 +1,29 @@
+@nsobid-DA404117DA4A7D6CB1CDB2BCD730582A
+# Splatoon 2: Special Demo 2020 5.2.0
+
+@flag offset_shift 0x100
+
+// You will need a dump of Splatoon 2 BCAT rotation for this.
+// Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
+@disabled
+0031E0C0 48008052
+
+// Force "Lp::Utl::Matching::isLogIn" to be true [oomi_the_octo]
+@disabled
+019E8184 20008052C0035FD6
+
+// isInstalledOcta = true [oomi_the_octo]
+@disabled
+0006DE44 20008052
+
+// Set RomType to JP [oomi_the_octo]
+@disabled
+000E23A0 00008052C0035FD6
+
+// Set RomType to US [oomi_the_octo]
+@disabled
+000E23A0 20008052C0035FD6
+
+// Set RomType to EU [oomi_the_octo]
+@disabled
+000E23A0 40008052C0035FD6
