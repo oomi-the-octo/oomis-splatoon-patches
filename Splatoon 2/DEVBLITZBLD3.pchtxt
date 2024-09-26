@@ -1,0 +1,234 @@
+@nsobid-0F129135D8A7621C9E4940B0C3808BF0
+#010000a00218e000 Splatoon 2 Global Testfire
+
+@flag offset_shift 0x100
+
+// Game::Player::isInDebugMove_UpDown = true [oomi_the_octo]
+@disabled
+0072F488 20008052
+
+// Game::Player::isNewMethod_Test_NewWallClimbAllOff = true (???) [oomi_the_octo]
+@disabled
+007496E4 20008052
+
+// FreeTestPlayerNum = 1 (No Bots.) [oomi_the_octo]
+@disabled
+000FD468 28008052
+
+// FreeTestPlayerNum = 4 [oomi_the_octo]
+@disabled
+000FD468 88008052
+
+// Show Enemy Nametags Only [oomi_the_octo]
+@disabled
+0073C420 BF060071
+
+// See Everyone's Nametags [oomi_the_octo]
+@enabled
+0073C420 1F050071
+
+// Solo Private Battle isn't working... yet.
+// Private Battle/Salmon Run Alone [oomi_the_octo]
+@disabled
+009D878C 1F2003D5
+009BE390 1F2003D5
+
+// No Bomb Throwing Cooldown [oomi_the_octo]
+@disabled
+007B0A14 13008052
+007202C8 C0035FD6
+
+// Game::Player::isNewMethod_Test_PaintGaugeDie = false (???) [oomi_the_octo]
+@disabled
+0071EBE8 00008052
+
+// Game::Player::isNewMethod_Test_RollerDash = false (???) [oomi_the_octo]
+@disabled
+00739828 00008052
+
+// Marking ESP (All) [oomi_the_octo]
+@disabled
+0074A894 20008052
+
+// Game::Player::isCameraFocused = false (???) [oomi_the_octo]
+@disabled
+0074B0A4 00008052
+
+// isInTrouble_WaterMelt = true [oomi_the_octo]
+@disabled
+0074BEB4 20008052
+
+// This allows you to use the "ColTest" scene, it won't load much as the render code is scrapped.
+// You'll also need a file in the Model folder called "Gnd_ColTest_01.Nin_NX_NVN.szs" 
+// Construct ColTest scene in Cstm::newScene<LobbyForShow::Scene>(sead::Heap *)
+@disabled
+00162228 00008252
+00162238 86B12094
+0246DC22 "ColTest" // Renames "LobbyForShow"
+
+// Construct PlayerViewer scene in Cstm::newScene<ThanksForShow::Scene>(sead::Heap *)
+@disabled
+001621D4 00008252
+001621E4 673A2294
+//below is more patches to add a newScene function for PlayerViewer
+01285910 60E69702
+01285920 A4211600
+
+// You will need to use the Splatoon 2 1.0.0 layouts for this. The link is below. 
+// Please disable PlayerViewer if you are going to use this patch.
+// https://mega.nz/file/ScpFDCKC#vO6u9pKeNtX2vetpmx2EI5gf7h-ngNUc1ztCgsezYqk
+// Construct UdgwTest scene in Cstm::newScene<ThanksForShow::Scene>(sead::Heap *)
+@enabled
+001621D4 00008252
+001621E4 5FCB2294
+0246DC4A "UdgwTest" // Renames "ThanksForShow"
+
+// Allows you to use the Shop scene when using Debug Menu Patches.
+// Construct Shop scene in Cstm::newScene<TitleForShow::Scene>(sead::Heap *)
+@disabled
+00162180 00008252
+00162190 36842294
+0246DC3D "Shop (real)" // Renames "TitleForShow"
+
+// Unlock all rules [Originally by OatmealDome, ashbinary, DiamCreeper23]
+@disabled
+009CFC14 E0031F2A
+009CFC7C 20008052
+
+// "comeOn" & "nice" Signal from all teams (i need to test it with someone lol) [oomi_the_octo]
+@disabled
+00775208 1F2003D5
+007757B4 1F2003D5
+
+// This crashes, since the field "Fld_Ditch00" is missing.
+// Use E3 2017 TutorialForShow [oomi_the_octo]
+@disabled
+0246C6F9 "Fld_TutorialShow00_Ttr"
+
+// Ink Tank = Tnk_Coop [oomi_the_octo]
+@enabled
+0246B80E "Tnk_Coop"
+
+// -- Temporary Save Unlock Cheats --
+@disabled
+00000000 00000000
+
+// Temporary Save Unlock Weapons [oomi_the_octo]
+@disabled
+00107880 20008052
+
+// Temporary Save Unlock Gear (CRASHES, DO NOT USE THIS.) [oomi_the_octo]
+@disabled
+00107E80 20008052
+
+// -- Debug Related --
+@disabled
+00000000 00000000
+
+// Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
+@disabled
+00FFD534 1F2003D5
+
+// Translation might not be perfect, did my best. Sorry!
+// More English translation for Debug Menu [oomi_the_octo]
+@enabled
+024C4A8D "You can use a debug or normal controller"
+024C4ACA "[Moving]"
+024C4AD5 "The L-Stick & D-Pad does the same thing"
+024C4B00 "Move the cursor with D-Pad & Left Joystick"
+024C4B2E "Hold Y while moving the D-Pad for shortcut movement"
+024C4B74 "[Selecting]"
+024C4B91 "Press A to jump to a scene"
+024C4BC2 "Press A to select maps, weapons, etc."
+024C4BFF "Use Up & Down to change personal settings"
+024C4C30 "Press B to return"
+024C4C43 "Switch between display & file names with R-Stick"
+024C4C86 "Press + to load selected map in the appropirate scene"
+024C4CCF "Press - to load FreeTest"
+024C4CF0 "Press X to change scene mode"
+
+// This is useful if you plan on restoring the plaza for the global testfire.
+// If otherwise not, leave these patches disabled.
+// -- Plaza Anti Crashes --
+@disabled
+00000000 00000000
+
+// Ignore Amiibo stuff for Plaza [oomi_the_octo]
+@enabled
+008ADAD4 20008052C0035FD6
+
+// Anti Plaza News Crash [oomi_the_octo]
+@enabled
+006695A4 20008052C0035FD6
+
+// Stop "Obj_PlazaTV%_anim" from loading [oomi_the_octo]
+@enabled
+0066B770 20008052C0035FD6
+
+// -- Network Patches --
+
+// You will need a dump of Splatoon 2 BCAT rotation for this.
+// Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
+@disabled
+001125B0 1F2003D548008052
+
+/ This can probably cause desyncs.
+// Set "UnreliableSendInterval" to 0 [oomi_the_octo]
+@disabled
+0015C250 1F2003D5
+0015C254 08008052
+
+// Recommended version, kinda improves network matches, unless your wifi is shit, it won't do a lot.
+// Set "UnreliableSendInterval" to 1 (Recommended One) [oomi_the_octo]
+@disabled
+0015C250 1F2003D5
+0015C254 28008052
+
+// Set "UnreliableSendInterval" to 180 (Fake Lag) [oomi_the_octo]
+@disabled
+0015C250 1F2003D5
+0015C254 08108052
+
+// -- Environment Patches --
+
+// Force Splatfest/Night Mode [3号{player}]
+@disabled
+00544334 04000014 
+006552B8 20008052
+006550F0 1F2003D5 
+0065EFA0 20008052C0035FD6
+00856004 1F2003D5
+00857F08 1F2003D5
+0066B7F8 20008052
+0066AB48 20008052
+0066ACFC 20008052
+0066AD78 20008052
+0066ADF4 20008052
+0080554C 20008052
+00654BAC 20008052
+00654C00 20008052
+00655538 20008052
+007FE850 20008052
+00655130 20008052
+00655500 20008052
+006546CC 20008052
+00654194 20008052
+006544EC 20008052
+000D59B0 20008052
+000D5A20 20008052
+000D5AF4 20008052
+000D5B60 20008052
+000D6068 20008052
+000D5F38 20008052
+000D60EC 20008052
+000D6094 20008052
+0019F12C 20008052
+00666154 20008052
+00802884 1F2003D5
+008029EC E0031F2A
+00802A00 E0031F2A
+00802B40 E0031F2A
+
+//full open test [YoshiCrystal]
+@disabled
+009788A4 0527DE97
