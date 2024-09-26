@@ -2,6 +2,9 @@
 This contains my public Splatoon patches.
 
 > The name of the patches:
+## Splatoon 1:
+Available soon.
+## Splatoon 2:
 - [Blitz_Eve101](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%202/Blitz_Eve101.pchtxt) = Splatoon 2 Splatfest World Premiere 1.0.1 patches.
 - [Blitz_MasterVer22](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%202/Blitz_MasterVer22.pchtxt) = Splatoon 2 3.1.0 patches.
 - [Blitz_MasterVer49](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%202/Blitz_MasterVer49.pchtxt) = Splatoon 2 5.5.1 patches.
