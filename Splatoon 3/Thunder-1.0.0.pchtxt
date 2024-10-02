@@ -1,0 +1,8 @@
+@nsobid-19FE149D2955756C21EEF824F9C7D966343B4A53
+# Splatoon 3 1.0.0
+
+@flag offset_shift 0x100
+
+// Replace Turf War with Tricolor Turf [oomi_the_octo]
+@enabled
+04982982 "Tcl , Var , Vlf , Vgl , Vcl , Pnt"
