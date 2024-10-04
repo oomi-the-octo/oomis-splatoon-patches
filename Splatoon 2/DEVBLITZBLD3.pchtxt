@@ -105,9 +105,21 @@
 @disabled
 0246C6F9 "Fld_TutorialShow00_Ttr"
 
-// Ink Tank = Tnk_Coop [oomi_the_octo]
-@enabled
-0246B80E "Tnk_Coop"
+// Ink Tank Changer (Tnk_Msn0Lv0) [oomi_the_octo]
+@disabled
+0002B0AC 007D8052C0035FD6
+
+// Ink Tank Changer (Tnk_Msn0Lv1) [oomi_the_octo]
+@disabled
+0002B0AC 207D8052C0035FD6
+
+// Ink Tank Changer (Tnk_Msn0Lv2) [oomi_the_octo]
+@disabled
+0002B0AC 407D8052C0035FD6
+
+// Ink Tank Changer (Tnk_Msn0Lv3) [oomi_the_octo]
+@disabled
+0002B0AC 607D8052C0035FD6
 
 // -- Temporary Save Unlock Cheats --
 @disabled
