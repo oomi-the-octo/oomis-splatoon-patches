@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Force Player To Look Forward
+path = "Splatoon/Mods/Player Related/Force Player To Look Forward"
+description = Forces the player to look forward. Made by @oomi_the_octo.
+version = 7

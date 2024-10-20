@@ -1,0 +1,24 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Model (Gender) Spoofer
+path = "Splatoon/Mods/Spoofers/Model Spoofer"
+description = Allows you to spoof your Model (Gender.) Made by @oomi_the_octo.
+version = 6
+
+[Default]
+$modelspoof = 0
+
+[Preset]
+name = Inkling Girl
+category = Current Gender:
+$modelspoof = 0
+
+[Preset]
+name = Inkling Boy
+category = Current Gender:
+$modelspoof = 1
+
+[Preset]
+name = Rival Octoling
+category = Current Gender:
+$modelspoof = 2

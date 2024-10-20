@@ -1,0 +1,24 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = BossDownload
+path = "Splatoon/Mods/Misc/BOSS Patches/Toggle BossDownload"
+description = Allows you to toggle Boss Data Download. Made by @oomi_the_octo.
+version = 7
+
+[Default]
+$bossdownload = 0
+
+[Preset]
+name = Depends
+category = BossDownload
+$bossdownload = 0
+
+[Preset]
+name = ON (Always)
+category = BossDownload
+$bossdownload = 1
+
+[Preset]
+name = OFF (Never)
+category = BossDownload
+$bossdownload = 2

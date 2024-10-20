@@ -1,0 +1,4 @@
+[ValidateBOSSVersion]
+moduleMatches = 0x659c782e
+
+0x021bf648 = li r6, 0x0

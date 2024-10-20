@@ -1,0 +1,19 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Toggle Disabling Full Player Control
+path = "Splatoon/Mods/Player Related/Toggle Disabling Full Player Control"
+description = Fully disables controlling your player. Made by @oomi_the_octo.
+version = 7
+
+[Default]
+$playercontrol = 0
+
+[Preset]
+name = Disabled
+category = Player Control
+$playercontrol = 0
+
+[Preset]
+name = Enabled
+category = Player Control
+$playercontrol = 1

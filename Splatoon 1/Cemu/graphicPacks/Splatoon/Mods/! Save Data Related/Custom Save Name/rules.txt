@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Custom Save Name
+path = "Splatoon/Mods/Save Data/Custom Save Name"
+description = Creates a different save with a different inserted name. Made by @oomi_the_octo.
+version = 6

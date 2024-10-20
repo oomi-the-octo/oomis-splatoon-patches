@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Allow MiniGTest Scene Usage
+path = "Splatoon/Mods/Debug/Allow MiniGTest Scene Usage"
+description = Pressing B to go back will make your game crash, as it tries going to the scene "DbgSetting" which doesn't exist in retail. Made by @oomi_the_octo.
+version = 7

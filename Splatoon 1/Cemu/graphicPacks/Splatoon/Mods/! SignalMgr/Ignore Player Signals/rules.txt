@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Ignore Player Signals
+path = "Splatoon/Mods/SignalMgr/Ignore Player Signals"
+description = This allows you disable signals (Booyah! / This Way!) everywhere. Made by @oomi_the_octo.
+version = 7

@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Make Everything Free (Enable At Boot)
+path = "Splatoon/Mods/Shop Related/Make Everything Free (Enable At Boot)"
+description = Allow you buy everything (Weapon and Gear) for free. (NOTE: This will make MemoryHash mismatch, USE NO-HASH!! Also side issue: weapons cost -1 so you'll get money buying them...) Made by @oomi_the_octo.
+version = 6

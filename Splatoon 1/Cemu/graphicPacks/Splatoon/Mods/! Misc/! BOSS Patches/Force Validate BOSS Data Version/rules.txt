@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Force Validate BOSS Data Version
+path = "Splatoon/Mods/Misc/BOSS Patches/Force Validate BOSS Data Version"
+description = Force the version to always be 0, instead of the BOSS Data version. Made by @oomi_the_octo.
+version = 6

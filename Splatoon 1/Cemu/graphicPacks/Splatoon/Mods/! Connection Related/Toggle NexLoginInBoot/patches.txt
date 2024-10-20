@@ -1,0 +1,5 @@
+[NexLoginInBoot]
+moduleMatches = 0x659c782e
+
+# NexLoginInBoot
+0x027b318c = li r0, $nexlogin

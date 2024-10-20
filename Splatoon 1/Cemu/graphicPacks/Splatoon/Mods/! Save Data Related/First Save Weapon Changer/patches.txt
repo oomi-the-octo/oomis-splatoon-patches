@@ -1,0 +1,5 @@
+[First Save Weapon Changer]
+moduleMatches = 0x659c782e
+
+0x02024618 = li r3, $firstwpn
+0x0202461C = blr

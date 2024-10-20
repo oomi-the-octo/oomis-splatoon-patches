@@ -1,0 +1,5 @@
+[Ignore Signals]
+moduleMatches = 0x659c782e
+
+0x02408278 = blr # Disable using & sending Signal to net players
+0x0266eb40 = blr # Ignore net players signal

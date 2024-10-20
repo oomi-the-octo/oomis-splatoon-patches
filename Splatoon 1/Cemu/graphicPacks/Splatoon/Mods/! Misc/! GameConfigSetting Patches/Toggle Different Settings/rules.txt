@@ -1,0 +1,79 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Toggle Different Settings
+path = "Splatoon/Mods/Misc/GameConfigSetting Patches/Toggle Different Settings"
+description = Allows you to choose different settings available in the GameConfigSetting. Made by @oomi_the_octo.
+version = 6
+
+[Default]
+$hopeteamno = 0
+$changelanmatchinboot = 0
+$swapteamcolor = 0
+$enablemaxplayertest = 0
+$calcgameframertc = 0
+$enabledueldrawcalccalc = 0
+
+[Preset]
+name = None (-1)
+category = HopeTeamNo
+$hopeteamno = -1
+
+[Preset]
+name = Team_Alpha
+category = HopeTeamNo
+$hopeteamno = 0
+
+[Preset]
+name = Team_Bravo
+category = HopeTeamNo
+$hopeteamno = 1
+
+[Preset]
+name = OFF
+category = ChangeLanMatchInBoot
+$changelanmatchinboot = 0
+
+[Preset]
+name = ON
+category = ChangeLanMatchInBoot
+$changelanmatchinboot = 1
+
+[Preset]
+name = OFF
+category = SwapTeamColor
+$swapteamcolor = 0
+
+[Preset]
+name = ON
+category = SwapTeamColor
+$swapteamcolor = 1
+
+[Preset]
+name = OFF
+category = EnableMaxPlayerTest
+$enablemaxplayertest = 0
+
+[Preset]
+name = ON
+category = EnableMaxPlayerTest
+$enablemaxplayertest = 1
+
+[Preset]
+name = OFF
+category = CalcGameFrameRTC
+$calcgameframertc = 0
+
+[Preset]
+name = ON
+category = CalcGameFrameRTC
+$calcgameframertc = 1
+
+[Preset]
+name = OFF
+category = EnableDuelDrawCalcCalc
+$enabledueldrawcalccalc = 0
+
+[Preset]
+name = ON
+category = EnableDuelDrawCalcCalc
+$enabledueldrawcalccalc = 1

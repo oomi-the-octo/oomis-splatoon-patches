@@ -1,0 +1,4 @@
+[Force Callie VS Marie SplatFest (Amiibo)]
+moduleMatches = 0x659c782e
+
+0x0202fb40 = li r30, 0x1

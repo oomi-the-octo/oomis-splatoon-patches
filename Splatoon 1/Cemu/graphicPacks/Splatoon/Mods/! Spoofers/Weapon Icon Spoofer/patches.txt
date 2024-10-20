@@ -1,0 +1,5 @@
+[WeaponIconSpoofer]
+moduleMatches = 0x659c782e
+
+0x021A9370 = li r12, $weaponiconspoof 
+

@@ -1,0 +1,4 @@
+[Gender Spoofer]
+moduleMatches = 0x659c782e
+
+0x021A9348 = li r8, $modelspoof

@@ -1,0 +1,24 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Online-Safe Ink Tank Spoofer
+path = "Splatoon/Mods/Spoofers/Online-Safe Ink Tank Spoofer"
+description = Allow you to safely server-side spoof your Ink Tank online. Made by @oomi_the_octo.
+version = 6
+
+[Default]
+$tankspoofer = 0
+
+[Preset]
+name = Default Ink Tank
+category = Current Ink Tank:
+$tankspoofer = 0
+
+[Preset]
+name = Mission Level 0 Ink Tank
+category = Current Ink Tank:
+$tankspoofer = 1000
+
+[Preset]
+name = Rival Ink Tank
+category = Current Ink Tank:
+$tankspoofer = 2000

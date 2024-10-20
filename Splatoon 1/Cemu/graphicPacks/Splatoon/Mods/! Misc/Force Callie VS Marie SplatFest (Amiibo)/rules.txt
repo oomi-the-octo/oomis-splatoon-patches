@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Force Callie VS Marie SplatFest (Amiibo)
+path = "Splatoon/Mods/Misc/Force Callie VS Marie SplatFest (Amiibo)"
+description = Force the Splatfest Callie VS Marie in the plaza, as amiibo. Made by @oomi_the_octo.
+version = 6

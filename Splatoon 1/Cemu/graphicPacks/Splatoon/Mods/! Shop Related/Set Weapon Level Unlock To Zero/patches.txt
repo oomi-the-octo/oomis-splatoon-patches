@@ -1,0 +1,4 @@
+[Set Weapon Level Unlock To Zero]
+moduleMatches = 0x659c782e
+
+0x02024c3c = nop

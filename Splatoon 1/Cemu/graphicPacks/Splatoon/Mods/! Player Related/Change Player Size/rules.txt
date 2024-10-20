@@ -1,0 +1,34 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Change Player Size
+path = "Splatoon/Mods/Player Related/Change Player Size"
+description = Allows changing the player size (All.) Made by @oomi_the_octo.
+version = 6
+
+[Default]
+$playersize = 1
+
+[Preset]
+name = Very Tiny
+category = Current Player Size:
+$playersize = 0.2
+
+[Preset]
+name = Half the size
+category = Current Player Size:
+$playersize = 0.5
+
+[Preset]
+name = Normal Size
+category = Current Player Size:
+$playersize = 1
+
+[Preset]
+name = Big Size
+category = Current Player Size:
+$playersize = 1.5
+
+[Preset]
+name = Very Big Size
+category = Current Player Size:
+$playersize = 2

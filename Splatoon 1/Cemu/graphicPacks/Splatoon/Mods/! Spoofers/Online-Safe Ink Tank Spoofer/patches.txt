@@ -1,0 +1,5 @@
+[Online-Safe Ink Tank Spoofer]
+moduleMatches = 0x659c782e
+
+0x0202118c = li r3, $tankspoofer
+0x02021190 = blr

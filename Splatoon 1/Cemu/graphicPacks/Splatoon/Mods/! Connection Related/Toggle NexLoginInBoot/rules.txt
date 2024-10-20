@@ -1,0 +1,24 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = NexLoginInBoot Setting
+path = "Splatoon/Mods/Connection Related/Toggle NexLoginInBoot"
+description = Allows you to toggle the "NexLoginInBoot" Setting. Made by @oomi_the_octo.
+version = 7
+
+[Default]
+$nexlogin = 0
+
+[Preset]
+name = Depends
+category = NexLoginInBoot
+$nexlogin = 0
+
+[Preset]
+name = ON (Always)
+category = NexLoginInBoot
+$nexlogin = 1
+
+[Preset]
+name = OFF (Never)
+category = NexLoginInBoot
+$nexlogin = 2

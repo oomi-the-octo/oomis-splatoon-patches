@@ -1,0 +1,5 @@
+[Make Everything Free]
+moduleMatches = 0x659c782e
+
+0x0201f94c = li r3, 0x0
+0x02024c28 = li r3, 0x1

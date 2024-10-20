@@ -1,0 +1,469 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Weapon Icon Spoofer
+path = "Splatoon/Mods/Spoofers/Weapon Icon Spoofer"
+description = Allows you to spoof your Weapon Icon. Made by @oomi_the_octo.
+version = 6
+
+[Default]
+$weaponiconspoof = 1000
+
+[Preset]
+name = Splat Bomb (Invalid)
+category = Weapon ID:
+$weaponiconspoof = 0
+
+[Preset]
+name = Sploosh-o-matic
+category = Weapon ID:
+$weaponiconspoof = 1000
+
+[Preset]
+name = Neo Sploosh-o-matic
+category = Weapon ID:
+$weaponiconspoof = 1001
+
+[Preset]
+name = Sploosh-o-matic 7
+category = Weapon ID:
+$weaponiconspoof = 1002
+
+[Preset]
+name = Splattershot Jr. (Default)
+category = Weapon ID:
+$weaponiconspoof = 1010
+
+[Preset]
+name = Custom Splattershot Jr.
+category = Weapon ID:
+$weaponiconspoof = 1011
+
+[Preset]
+name = Splash-o-matic
+category = Weapon ID:
+$weaponiconspoof = 1020
+
+[Preset]
+name = Neo Splash-o-matic
+category = Weapon ID:
+$weaponiconspoof = 1021
+
+[Preset]
+name = Aerospray MG
+category = Weapon ID:
+$weaponiconspoof = 1030
+
+[Preset]
+name = Aerospray RG
+category = Weapon ID:
+$weaponiconspoof = 1031
+
+[Preset]
+name = Aerospray PG
+category = Weapon ID:
+$weaponiconspoof = 1032
+
+[Preset]
+name = Splattershot
+category = Weapon ID:
+$weaponiconspoof = 1040
+
+[Preset]
+name = Tentatek Splattershot
+category = Weapon ID:
+$weaponiconspoof = 1041
+
+[Preset]
+name = Wasabi Splattershot
+category = Weapon ID:
+$weaponiconspoof = 1042
+
+[Preset]
+name = Hero Shot Replica
+category = Weapon ID:
+$weaponiconspoof = 1045
+
+[Preset]
+name = Octoshot Replica
+category = Weapon ID:
+$weaponiconspoof = 1046
+
+[Preset]
+name = .52 Gal
+category = Weapon ID:
+$weaponiconspoof = 1050
+
+[Preset]
+name = .52 Gal Deco
+category = Weapon ID:
+$weaponiconspoof = 1051
+
+[Preset]
+name = N-ZAP '85
+category = Weapon ID:
+$weaponiconspoof = 1060
+
+[Preset]
+name = N-ZAP '89
+category = Weapon ID:
+$weaponiconspoof = 1061
+
+[Preset]
+name = N-ZAP '83
+category = Weapon ID:
+$weaponiconspoof = 1062
+
+[Preset]
+name = Splattershot Pro
+category = Weapon ID:
+$weaponiconspoof = 1070
+
+[Preset]
+name = Forge Splattershot Pro
+category = Weapon ID:
+$weaponiconspoof = 1071
+
+[Preset]
+name = Berry Splattershot Pro
+category = Weapon ID:
+$weaponiconspoof = 1072
+
+[Preset]
+name = .96 Gal
+category = Weapon ID:
+$weaponiconspoof = 1080
+
+[Preset]
+name = .96 Gal Deco
+category = Weapon ID:
+$weaponiconspoof = 1081
+
+[Preset]
+name = Dual Squelcher
+category = Weapon ID:
+$weaponiconspoof = 1090
+
+[Preset]
+name = Custom Dual Squelcher
+category = Weapon ID:
+$weaponiconspoof = 1091
+
+[Preset]
+name = Jet Squelcher
+category = Weapon ID:
+$weaponiconspoof = 1100
+
+[Preset]
+name = Custom Jet Squelcher
+category = Weapon ID:
+$weaponiconspoof = 1101
+
+[Preset]
+name = Luna Blaster
+category = Weapon ID:
+$weaponiconspoof = 1110
+
+[Preset]
+name = Luna Blaster Neo
+category = Weapon ID:
+$weaponiconspoof = 1111
+
+[Preset]
+name = Blaster
+category = Weapon ID:
+$weaponiconspoof = 1120
+
+[Preset]
+name = Custom Blaster
+category = Weapon ID:
+$weaponiconspoof = 1121
+
+[Preset]
+name = Range Blaster
+category = Weapon ID:
+$weaponiconspoof = 1130
+
+[Preset]
+name = Custom Range Blaster
+category = Weapon ID:
+$weaponiconspoof = 1131
+
+[Preset]
+name = Grim Range Blaster
+category = Weapon ID:
+$weaponiconspoof = 1132
+
+[Preset]
+name = Rapid Blaster
+category = Weapon ID:
+$weaponiconspoof = 1140
+
+[Preset]
+name = Rapid Blaster Deco
+category = Weapon ID:
+$weaponiconspoof = 1141
+
+[Preset]
+name = Rapid Blaster Pro
+category = Weapon ID:
+$weaponiconspoof = 1150
+
+[Preset]
+name = Rapid Blaster Pro Deco
+category = Weapon ID:
+$weaponiconspoof = 1151
+
+[Preset]
+name = L-3 Nozzlenose
+category = Weapon ID:
+$weaponiconspoof = 1160
+
+[Preset]
+name = L-3 Nozzlenose D
+category = Weapon ID:
+$weaponiconspoof = 1161
+
+[Preset]
+name = H-3 Nozzlenose
+category = Weapon ID:
+$weaponiconspoof = 1170
+
+[Preset]
+name = H-3 Nozzlenose D
+category = Weapon ID:
+$weaponiconspoof = 1171
+
+[Preset]
+name = Cherry H-3 Nozzlenose
+category = Weapon ID:
+$weaponiconspoof = 1172
+
+[Preset]
+name = Carbon Roller
+category = Weapon ID:
+$weaponiconspoof = 2000
+
+[Preset]
+name = Carbon Roller Deco
+category = Weapon ID:
+$weaponiconspoof = 2001
+
+[Preset]
+name = Splat Roller
+category = Weapon ID:
+$weaponiconspoof = 2010
+
+[Preset]
+name = Krak-On Splat Roller
+category = Weapon ID:
+$weaponiconspoof = 2011
+
+[Preset]
+name = CoroCoro Splat Roller
+category = Weapon ID:
+$weaponiconspoof = 2011
+
+[Preset]
+name = Hero Roller Replica
+category = Weapon ID:
+$weaponiconspoof = 2015
+
+[Preset]
+name = Dynamo Roller
+category = Weapon ID:
+$weaponiconspoof = 2020
+
+[Preset]
+name = Gold Dynamo Roller
+category = Weapon ID:
+$weaponiconspoof = 2021
+
+[Preset]
+name = Tempered Dynamo Roller
+category = Weapon ID:
+$weaponiconspoof = 2022
+
+[Preset]
+name = Inkbrush
+category = Weapon ID:
+$weaponiconspoof = 2030
+
+[Preset]
+name = Inkbrush Nouveau
+category = Weapon ID:
+$weaponiconspoof = 2031
+
+[Preset]
+name = Permanent Inkbrush
+category = Weapon ID:
+$weaponiconspoof = 2032
+
+[Preset]
+name = Octobrush
+category = Weapon ID:
+$weaponiconspoof = 2040
+
+[Preset]
+name = Octobrush Nouveau
+category = Weapon ID:
+$weaponiconspoof = 2041
+
+[Preset]
+name = Slosher
+category = Weapon ID:
+$weaponiconspoof = 3000
+
+[Preset]
+name = Slosher Deco
+category = Weapon ID:
+$weaponiconspoof = 3001
+
+[Preset]
+name = Soda Slosher
+category = Weapon ID:
+$weaponiconspoof = 3002
+
+[Preset]
+name = Tri-Slosher
+category = Weapon ID:
+$weaponiconspoof = 3010
+
+[Preset]
+name = Tri-Slosher Nouveau
+category = Weapon ID:
+$weaponiconspoof = 3011
+
+[Preset]
+name = Sloshing Machine
+category = Weapon ID:
+$weaponiconspoof = 3020
+
+[Preset]
+name = Sloshing Machine Neo
+category = Weapon ID:
+$weaponiconspoof = 3021
+
+[Preset]
+name = Classic Squiffer
+category = Weapon ID:
+$weaponiconspoof = 4000
+
+[Preset]
+name = New Squiffer
+category = Weapon ID:
+$weaponiconspoof = 4001
+
+[Preset]
+name = Fresh Squiffer
+category = Weapon ID:
+$weaponiconspoof = 4002
+
+[Preset]
+name = Splat Charger
+category = Weapon ID:
+$weaponiconspoof = 4010
+
+[Preset]
+name = Kelp Splat Charger
+category = Weapon ID:
+$weaponiconspoof = 4011
+
+[Preset]
+name = Bento Splat Charger
+category = Weapon ID:
+$weaponiconspoof = 4012
+
+[Preset]
+name = Hero Charger Replica
+category = Weapon ID:
+$weaponiconspoof = 4015
+
+[Preset]
+name = Splatterscope
+category = Weapon ID:
+$weaponiconspoof = 4020
+
+[Preset]
+name = Kelp Splatterscope
+category = Weapon ID:
+$weaponiconspoof = 4021
+
+[Preset]
+name = Bento Splatterscope
+category = Weapon ID:
+$weaponiconspoof = 4022
+
+[Preset]
+name = E-Liter 3K
+category = Weapon ID:
+$weaponiconspoof = 4030
+
+[Preset]
+name = Custom E-Liter 3K
+category = Weapon ID:
+$weaponiconspoof = 4031
+
+[Preset]
+name = E-Liter 3K Scope
+category = Weapon ID:
+$weaponiconspoof = 4040
+
+[Preset]
+name = Custom E-Liter 3K Scope
+category = Weapon ID:
+$weaponiconspoof = 4041
+
+[Preset]
+name = Bamboozler 14 Mk I
+category = Weapon ID:
+$weaponiconspoof = 4050
+
+[Preset]
+name = Bamboozler 14 Mk II
+category = Weapon ID:
+$weaponiconspoof = 4051
+
+[Preset]
+name = Bamboozler 14 Mk III
+category = Weapon ID:
+$weaponiconspoof = 4052
+
+[Preset]
+name = Mini Splatling
+category = Weapon ID:
+$weaponiconspoof = 5000
+
+[Preset]
+name = Zink Mini Splatling
+category = Weapon ID:
+$weaponiconspoof = 5001
+
+[Preset]
+name = Refurbished Mini Splatling
+category = Weapon ID:
+$weaponiconspoof = 5002
+
+[Preset]
+name = Heavy Splatling
+category = Weapon ID:
+$weaponiconspoof = 5010
+
+[Preset]
+name = Heavy Splatling Deco
+category = Weapon ID:
+$weaponiconspoof = 5011
+
+[Preset]
+name = Heavy Splatling Remix
+category = Weapon ID:
+$weaponiconspoof = 5012
+
+[Preset]
+name = Hydra Splatling
+category = Weapon ID:
+$weaponiconspoof = 5020
+
+[Preset]
+name = Custom Hydra Splatling
+category = Weapon ID:
+$weaponiconspoof = 5021

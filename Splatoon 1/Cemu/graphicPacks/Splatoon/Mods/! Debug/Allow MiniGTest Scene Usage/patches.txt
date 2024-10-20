@@ -1,0 +1,5 @@
+[Allow MiniGTest Usage]
+moduleMatches = 0x659c782e
+
+#Be Able To Use MiniGTest Scene
+0x10031264 = .int 0x021f8c08

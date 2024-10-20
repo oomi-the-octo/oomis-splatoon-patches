@@ -1,0 +1,4 @@
+[BossDownload]
+moduleMatches = 0x659c782e
+
+0x028c258c = li r0, $bossdownload

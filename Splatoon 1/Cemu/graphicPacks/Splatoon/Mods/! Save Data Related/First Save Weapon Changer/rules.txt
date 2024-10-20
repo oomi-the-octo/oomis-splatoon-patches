@@ -1,0 +1,464 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = First Save Weapon Changer
+path = "Splatoon/Mods/Save Data/First Save Weapon Changer"
+description = Allows changing first owned weapon when first save boot. Made by @oomi_the_octo.
+version = 6
+
+[Default]
+$firstwpn = 1010
+
+[Preset]
+name = Sploosh-o-matic
+category = First Save Weapon:
+$firstwpn = 1000
+
+[Preset]
+name = Neo Sploosh-o-matic
+category = First Save Weapon:
+$firstwpn = 1001
+
+[Preset]
+name = Sploosh-o-matic 7
+category = First Save Weapon:
+$firstwpn = 1002
+
+[Preset]
+name = Splattershot Jr. (Default)
+category = First Save Weapon:
+$firstwpn = 1010
+
+[Preset]
+name = Custom Splattershot Jr.
+category = First Save Weapon:
+$firstwpn = 1011
+
+[Preset]
+name = Splash-o-matic
+category = First Save Weapon:
+$firstwpn = 1020
+
+[Preset]
+name = Neo Splash-o-matic
+category = First Save Weapon:
+$firstwpn = 1021
+
+[Preset]
+name = Aerospray MG
+category = First Save Weapon:
+$firstwpn = 1030
+
+[Preset]
+name = Aerospray RG
+category = First Save Weapon:
+$firstwpn = 1031
+
+[Preset]
+name = Aerospray PG
+category = First Save Weapon:
+$firstwpn = 1032
+
+[Preset]
+name = Splattershot
+category = First Save Weapon:
+$firstwpn = 1040
+
+[Preset]
+name = Tentatek Splattershot
+category = First Save Weapon:
+$firstwpn = 1041
+
+[Preset]
+name = Wasabi Splattershot
+category = First Save Weapon:
+$firstwpn = 1042
+
+[Preset]
+name = Hero Shot Replica
+category = First Save Weapon:
+$firstwpn = 1045
+
+[Preset]
+name = Octoshot Replica
+category = First Save Weapon:
+$firstwpn = 1046
+
+[Preset]
+name = .52 Gal
+category = First Save Weapon:
+$firstwpn = 1050
+
+[Preset]
+name = .52 Gal Deco
+category = First Save Weapon:
+$firstwpn = 1051
+
+[Preset]
+name = N-ZAP '85
+category = First Save Weapon:
+$firstwpn = 1060
+
+[Preset]
+name = N-ZAP '89
+category = First Save Weapon:
+$firstwpn = 1061
+
+[Preset]
+name = N-ZAP '83
+category = First Save Weapon:
+$firstwpn = 1062
+
+[Preset]
+name = Splattershot Pro
+category = First Save Weapon:
+$firstwpn = 1070
+
+[Preset]
+name = Forge Splattershot Pro
+category = First Save Weapon:
+$firstwpn = 1071
+
+[Preset]
+name = Berry Splattershot Pro
+category = First Save Weapon:
+$firstwpn = 1072
+
+[Preset]
+name = .96 Gal
+category = First Save Weapon:
+$firstwpn = 1080
+
+[Preset]
+name = .96 Gal Deco
+category = First Save Weapon:
+$firstwpn = 1081
+
+[Preset]
+name = Dual Squelcher
+category = First Save Weapon:
+$firstwpn = 1090
+
+[Preset]
+name = Custom Dual Squelcher
+category = First Save Weapon:
+$firstwpn = 1091
+
+[Preset]
+name = Jet Squelcher
+category = First Save Weapon:
+$firstwpn = 1100
+
+[Preset]
+name = Custom Jet Squelcher
+category = First Save Weapon:
+$firstwpn = 1101
+
+[Preset]
+name = Luna Blaster
+category = First Save Weapon:
+$firstwpn = 1110
+
+[Preset]
+name = Luna Blaster Neo
+category = First Save Weapon:
+$firstwpn = 1111
+
+[Preset]
+name = Blaster
+category = First Save Weapon:
+$firstwpn = 1120
+
+[Preset]
+name = Custom Blaster
+category = First Save Weapon:
+$firstwpn = 1121
+
+[Preset]
+name = Range Blaster
+category = First Save Weapon:
+$firstwpn = 1130
+
+[Preset]
+name = Custom Range Blaster
+category = First Save Weapon:
+$firstwpn = 1131
+
+[Preset]
+name = Grim Range Blaster
+category = First Save Weapon:
+$firstwpn = 1132
+
+[Preset]
+name = Rapid Blaster
+category = First Save Weapon:
+$firstwpn = 1140
+
+[Preset]
+name = Rapid Blaster Deco
+category = First Save Weapon:
+$firstwpn = 1141
+
+[Preset]
+name = Rapid Blaster Pro
+category = First Save Weapon:
+$firstwpn = 1150
+
+[Preset]
+name = Rapid Blaster Pro Deco
+category = First Save Weapon:
+$firstwpn = 1151
+
+[Preset]
+name = L-3 Nozzlenose
+category = First Save Weapon:
+$firstwpn = 1160
+
+[Preset]
+name = L-3 Nozzlenose D
+category = First Save Weapon:
+$firstwpn = 1161
+
+[Preset]
+name = H-3 Nozzlenose
+category = First Save Weapon:
+$firstwpn = 1170
+
+[Preset]
+name = H-3 Nozzlenose D
+category = First Save Weapon:
+$firstwpn = 1171
+
+[Preset]
+name = Cherry H-3 Nozzlenose
+category = First Save Weapon:
+$firstwpn = 1172
+
+[Preset]
+name = Carbon Roller
+category = First Save Weapon:
+$firstwpn = 2000
+
+[Preset]
+name = Carbon Roller Deco
+category = First Save Weapon:
+$firstwpn = 2001
+
+[Preset]
+name = Splat Roller
+category = First Save Weapon:
+$firstwpn = 2010
+
+[Preset]
+name = Krak-On Splat Roller
+category = First Save Weapon:
+$firstwpn = 2011
+
+[Preset]
+name = CoroCoro Splat Roller
+category = First Save Weapon:
+$firstwpn = 2011
+
+[Preset]
+name = Hero Roller Replica
+category = First Save Weapon:
+$firstwpn = 2015
+
+[Preset]
+name = Dynamo Roller
+category = First Save Weapon:
+$firstwpn = 2020
+
+[Preset]
+name = Gold Dynamo Roller
+category = First Save Weapon:
+$firstwpn = 2021
+
+[Preset]
+name = Tempered Dynamo Roller
+category = First Save Weapon:
+$firstwpn = 2022
+
+[Preset]
+name = Inkbrush
+category = First Save Weapon:
+$firstwpn = 2030
+
+[Preset]
+name = Inkbrush Nouveau
+category = First Save Weapon:
+$firstwpn = 2031
+
+[Preset]
+name = Permanent Inkbrush
+category = First Save Weapon:
+$firstwpn = 2032
+
+[Preset]
+name = Octobrush
+category = First Save Weapon:
+$firstwpn = 2040
+
+[Preset]
+name = Octobrush Nouveau
+category = First Save Weapon:
+$firstwpn = 2041
+
+[Preset]
+name = Slosher
+category = First Save Weapon:
+$firstwpn = 3000
+
+[Preset]
+name = Slosher Deco
+category = First Save Weapon:
+$firstwpn = 3001
+
+[Preset]
+name = Soda Slosher
+category = First Save Weapon:
+$firstwpn = 3002
+
+[Preset]
+name = Tri-Slosher
+category = First Save Weapon:
+$firstwpn = 3010
+
+[Preset]
+name = Tri-Slosher Nouveau
+category = First Save Weapon:
+$firstwpn = 3011
+
+[Preset]
+name = Sloshing Machine
+category = First Save Weapon:
+$firstwpn = 3020
+
+[Preset]
+name = Sloshing Machine Neo
+category = First Save Weapon:
+$firstwpn = 3021
+
+[Preset]
+name = Classic Squiffer
+category = First Save Weapon:
+$firstwpn = 4000
+
+[Preset]
+name = New Squiffer
+category = First Save Weapon:
+$firstwpn = 4001
+
+[Preset]
+name = Fresh Squiffer
+category = First Save Weapon:
+$firstwpn = 4002
+
+[Preset]
+name = Splat Charger
+category = First Save Weapon:
+$firstwpn = 4010
+
+[Preset]
+name = Kelp Splat Charger
+category = First Save Weapon:
+$firstwpn = 4011
+
+[Preset]
+name = Bento Splat Charger
+category = First Save Weapon:
+$firstwpn = 4012
+
+[Preset]
+name = Hero Charger Replica
+category = First Save Weapon:
+$firstwpn = 4015
+
+[Preset]
+name = Splatterscope
+category = First Save Weapon:
+$firstwpn = 4020
+
+[Preset]
+name = Kelp Splatterscope
+category = First Save Weapon:
+$firstwpn = 4021
+
+[Preset]
+name = Bento Splatterscope
+category = First Save Weapon:
+$firstwpn = 4022
+
+[Preset]
+name = E-Liter 3K
+category = First Save Weapon:
+$firstwpn = 4030
+
+[Preset]
+name = Custom E-Liter 3K
+category = First Save Weapon:
+$firstwpn = 4031
+
+[Preset]
+name = E-Liter 3K Scope
+category = First Save Weapon:
+$firstwpn = 4040
+
+[Preset]
+name = Custom E-Liter 3K Scope
+category = First Save Weapon:
+$firstwpn = 4041
+
+[Preset]
+name = Bamboozler 14 Mk I
+category = First Save Weapon:
+$firstwpn = 4050
+
+[Preset]
+name = Bamboozler 14 Mk II
+category = First Save Weapon:
+$firstwpn = 4051
+
+[Preset]
+name = Bamboozler 14 Mk III
+category = First Save Weapon:
+$firstwpn = 4052
+
+[Preset]
+name = Mini Splatling
+category = First Save Weapon:
+$firstwpn = 5000
+
+[Preset]
+name = Zink Mini Splatling
+category = First Save Weapon:
+$firstwpn = 5001
+
+[Preset]
+name = Refurbished Mini Splatling
+category = First Save Weapon:
+$firstwpn = 5002
+
+[Preset]
+name = Heavy Splatling
+category = First Save Weapon:
+$firstwpn = 5010
+
+[Preset]
+name = Heavy Splatling Deco
+category = First Save Weapon:
+$firstwpn = 5011
+
+[Preset]
+name = Heavy Splatling Remix
+category = First Save Weapon:
+$firstwpn = 5012
+
+[Preset]
+name = Hydra Splatling
+category = First Save Weapon:
+$firstwpn = 5020
+
+[Preset]
+name = Custom Hydra Splatling
+category = First Save Weapon:
+$firstwpn = 5021

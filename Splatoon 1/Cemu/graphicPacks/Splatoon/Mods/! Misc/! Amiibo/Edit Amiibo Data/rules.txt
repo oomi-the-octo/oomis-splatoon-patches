@@ -1,0 +1,39 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Edit Amiibo Data (W.I.P.)
+path = "Splatoon/Mods/Misc/Amiibo/Edit Amiibo Data"
+description = Edit various Amiibo Data. Made by @oomi_the_octo.
+version = 7
+
+[Default]
+$amiibotank = 0
+
+[Preset]
+name = Default Ink Tank
+category = Amiibo Ink Tank:
+$amiibotank = 0
+
+[Preset]
+name = Mission Level 0 Ink Tank
+category = Amiibo Ink Tank:
+$amiibotank = 1000
+
+[Preset]
+name = Mission Level 1 Ink Tank
+category = Amiibo Ink Tank:
+$amiibotank = 1001
+
+[Preset]
+name = Mission Level 2 Ink Tank
+category = Amiibo Ink Tank:
+$amiibotank = 1002
+
+[Preset]
+name = Mission Level 3 Ink Tank
+category = Amiibo Ink Tank:
+$amiibotank = 1003
+
+[Preset]
+name = Rival Ink Tank
+category = Amiibo Ink Tank:
+$amiibotank = 2000
