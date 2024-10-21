@@ -1,0 +1,254 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Jump To Any Scene by Exiting Customize
+path = "Splatoon/Mods/Misc/Jump To Any Scene by Exiting Customize"
+description = Allows you to choose any transition. Made by @oomi_the_octo.
+version = 6
+
+[Default]
+$exitsetscene = 0
+
+[Preset]
+name = Boot
+category = Selected Scene:
+$exitsetscene = 0
+
+[Preset]
+name = Plaza
+category = Selected Scene:
+$exitsetscene = 1
+
+[Preset]
+name = Lobby
+category = Selected Scene:
+$exitsetscene = 2
+
+[Preset]
+name = Match
+category = Selected Scene:
+$exitsetscene = 3
+
+[Preset]
+name = TeamMatch (Splatfest Battles)
+category = Selected Scene:
+$exitsetscene = 4
+
+[Preset]
+name = PrivateMatch (Private Battles)
+category = Selected Scene:
+$exitsetscene = 5
+
+[Preset]
+name = PartyMatch (Squad Battles)
+category = Selected Scene:
+$exitsetscene = 6
+
+[Preset]
+name = VSGame
+category = Selected Scene:
+$exitsetscene = 7
+
+[Preset]
+name = Mission (Level)
+category = Selected Scene:
+$exitsetscene = 8
+
+[Preset]
+name = World (Octo Valley)
+category = Selected Scene:
+$exitsetscene = 9
+
+[Preset]
+name = Duel (Dojo Match)
+category = Selected Scene:
+$exitsetscene = 10
+
+[Preset]
+name = ShootingRange
+category = Selected Scene:
+$exitsetscene = 11
+
+[Preset]
+name = WalkThrough (Recon)
+category = Selected Scene:
+$exitsetscene = 12
+
+[Preset]
+name = StaffRoll (Credits)
+category = Selected Scene:
+$exitsetscene = 13
+
+[Preset]
+name = Shop
+category = Selected Scene:
+$exitsetscene = 14
+
+[Preset]
+name = Customize
+category = Selected Scene:
+$exitsetscene = 15
+
+[Preset]
+name = PlayerMake
+category = Selected Scene:
+$exitsetscene = 16
+
+[Preset]
+name = DuelSetting (Dojo Setting)
+category = Selected Scene:
+$exitsetscene = 17
+
+[Preset]
+name = DayChange (Rotation Updater)
+category = Selected Scene:
+$exitsetscene = 18
+
+[Preset]
+name = Tutorial
+category = Selected Scene:
+$exitsetscene = 19
+
+[Preset]
+name = EndingPlaza (Finished Hero Mode)
+category = Selected Scene:
+$exitsetscene = 20
+
+[Preset]
+name = MiniGame
+category = Selected Scene:
+$exitsetscene = 21
+
+[Preset]
+name = TitleForShow (Requires Testfire Layout Files)
+category = Selected Scene:
+$exitsetscene = 22
+
+[Preset]
+name = LobbyForShow (Requires Testfire Layout Files)
+category = Selected Scene:
+$exitsetscene = 23
+
+[Preset]
+name = MatchForShow (Requires Testfire Layout Files)
+category = Selected Scene:
+$exitsetscene = 24
+
+[Preset]
+name = TutorialForShow (Requires Testfire Layout Files)
+category = Selected Scene:
+$exitsetscene = 25
+
+[Preset]
+name = ThanksForShow (Requires Testfire Layout Files)
+category = Selected Scene:
+$exitsetscene = 26
+
+[Preset]
+name = [Debug Scene] DbgEntry (Crashes)
+category = Selected Scene:
+$exitsetscene = 27
+
+[Preset]
+name = [Debug Scene] DbgSetting (Crashes)
+category = Selected Scene:
+$exitsetscene = 28
+
+[Preset]
+name = [Debug Scene] DummyMatch (Crashes)
+category = Selected Scene:
+$exitsetscene = 29
+
+[Preset]
+name = [Debug Scene] DummyTeamMatch (Crashes)
+category = Selected Scene:
+$exitsetscene = 30
+
+[Preset]
+name = [Debug Scene] Viewer (Crashes)
+category = Selected Scene:
+$exitsetscene = 31
+
+[Preset]
+name = [Debug Scene] LytCheck (Crashes)
+category = Selected Scene:
+$exitsetscene = 32
+
+[Preset]
+name = [Debug Scene] TexViewer (Crashes)
+category = Selected Scene:
+$exitsetscene = 33
+
+[Preset]
+name = [Debug Scene] FontViewer (Crashes)
+category = Selected Scene:
+$exitsetscene = 34
+
+[Preset]
+name = [Debug Scene] ModelCapture (Crashes)
+category = Selected Scene:
+$exitsetscene = 35
+
+[Preset]
+name = [Debug Scene] IconCapture (Crashes)
+category = Selected Scene:
+$exitsetscene = 36
+
+[Preset]
+name = [Debug Scene] PlainForPhoto (Crashes)
+category = Selected Scene:
+$exitsetscene = 37
+
+[Preset]
+name = [Debug Scene] GameSample (Crashes)
+category = Selected Scene:
+$exitsetscene = 38
+
+[Preset]
+name = [Debug Scene] LayoutSample (Crashes)
+category = Selected Scene:
+$exitsetscene = 39
+
+[Preset]
+name = [Debug Scene] MiiverseSample (Crashes)
+category = Selected Scene:
+$exitsetscene = 40
+
+[Preset]
+name = [Debug Scene] MiiSample (Crashes)
+category = Selected Scene:
+$exitsetscene = 41
+
+[Preset]
+name = [Debug Scene] NetSample (Crashes)
+category = Selected Scene:
+$exitsetscene = 42
+
+[Preset]
+name = [Debug Scene] FreeTest (Crashes, unless restored.)
+category = Selected Scene:
+$exitsetscene = 43
+
+[Preset]
+name = [Debug Scene] ColTest (Crashes)
+category = Selected Scene:
+$exitsetscene = 44
+
+[Preset]
+name = [Debug Scene] NkjmTest (Crashes)
+category = Selected Scene:
+$exitsetscene = 45
+
+[Preset]
+name = [Debug Scene] MiniGTest (Crashes, unless restored.)
+category = Selected Scene:
+$exitsetscene = 46
+
+[Preset]
+name = [Debug Scene] NfpTest (Crashes)
+category = Selected Scene:
+$exitsetscene = 47
+
+[Preset]
+name = [Debug Scene] CustomTest (Crashes)
+category = Selected Scene:
+$exitsetscene = 48
