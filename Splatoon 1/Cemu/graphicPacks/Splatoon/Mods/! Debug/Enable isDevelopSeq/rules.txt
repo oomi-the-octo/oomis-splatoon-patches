@@ -2,5 +2,5 @@
 titleIds = 0005000010176900,0005000010176A00,0005000010162B00
 name = Enable "isDevelopSeq"
 path = "Splatoon/Mods/Debug/Enable "isDevelopSeq""
-description = A simple instruction to enable isDevelopSeq. At boot, you will skip Plaza news, including a frozen VSGame intro. Made by @oomi_the_octo.
+description = A simple instruction to enable isDevelopSeq. At boot, you will skip Plaza news, this includes the VSGame intro being frozen. Made by @oomi_the_octo.
 version = 7
