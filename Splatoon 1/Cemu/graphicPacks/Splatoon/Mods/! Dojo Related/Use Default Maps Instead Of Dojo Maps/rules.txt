@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Use Default Maps Instead Of Dojo Maps
+path = "Splatoon/Mods/Dojo Related/Use Default Maps Instead Of Dojo Maps"
+description = Uses default versus maps, instead of the dojo maps. Made by @oomi_the_octo.
+version = 7

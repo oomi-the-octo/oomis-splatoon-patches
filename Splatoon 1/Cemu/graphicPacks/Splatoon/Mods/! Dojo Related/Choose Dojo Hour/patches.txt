@@ -1,0 +1,4 @@
+[Custom Dojo Hour]
+moduleMatches = 0x659c782e
+
+0x027d2994 = li r3, $dojotime 

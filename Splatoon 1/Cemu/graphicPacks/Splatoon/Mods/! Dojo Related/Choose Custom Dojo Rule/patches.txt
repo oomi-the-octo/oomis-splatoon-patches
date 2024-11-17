@@ -1,0 +1,4 @@
+[Custom Dojo Rule]
+moduleMatches = 0x659c782e
+
+0x027d2988 = li r0, $dojorule

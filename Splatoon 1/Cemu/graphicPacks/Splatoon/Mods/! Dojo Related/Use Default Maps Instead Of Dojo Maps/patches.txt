@@ -1,0 +1,4 @@
+[Use Default Maps Instead Of Dojo Maps]
+moduleMatches = 0x659c782e
+
+0x027cf5f4 = addi r3, r3, 0x0

@@ -1,0 +1,34 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Choose Custom Dojo Rule
+path = "Splatoon/Mods/Dojo Related/Choose Custom Dojo Rule"
+description = Allows choosing any modes while being on Dojo. Made by @oomi_the_octo.
+version = 7
+
+[Default]
+$dojorule = 0
+
+[Preset]
+name = cNone (Invalid)
+category = Custom Dojo Rule:
+$dojorule = -1
+
+[Preset]
+name = Turf War
+category = Custom Dojo Rule:
+$dojorule = 0
+
+[Preset]
+name = Rainmaker (Crashes)
+category = Custom Dojo Rule:
+$dojorule = 1
+
+[Preset]
+name = Splat Zones
+category = Custom Dojo Rule:
+$dojorule = 2
+
+[Preset]
+name = Tower Control
+category = Custom Dojo Rule:
+$dojorule = 3

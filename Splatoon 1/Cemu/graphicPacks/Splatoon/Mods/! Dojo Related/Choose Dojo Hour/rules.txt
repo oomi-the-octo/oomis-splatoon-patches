@@ -1,0 +1,19 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Choose Dojo Hour
+path = "Splatoon/Mods/Dojo Related/Choose Dojo Hour"
+description = Allows choosing the time while being on Dojo. Made by @oomi_the_octo.
+version = 7
+
+[Default]
+$dojotime = 0
+
+[Preset]
+name = Day Time
+category = Custom Dojo Hour:
+$dojotime = 0
+
+[Preset]
+name = Night Time
+category = Custom Dojo Hour:
+$dojotime = 1

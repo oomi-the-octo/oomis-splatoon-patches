@@ -1,0 +1,4 @@
+[60 FPS Dojo]
+moduleMatches = 0x659c782e
+
+0x0242b060 = li r8, 0
