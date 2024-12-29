@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Run_Plaza instead of Run Anim
+path = "Splatoon/Mods/Misc/Run_Plaza instead of Run Anim"
+description = Uses the Run_Plaza animation instead of the normal run. Made by @oomi_the_octo.
+version = 7

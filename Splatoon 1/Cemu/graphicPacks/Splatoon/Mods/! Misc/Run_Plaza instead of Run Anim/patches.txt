@@ -1,0 +1,5 @@
+[Run_Plaza instead of Run Anim]
+moduleMatches = 0x659c782e
+
+0x100edc48 = .int 0x100ecb8c
+0x100ed758 = .int 0x100ecb8c
