@@ -7,9 +7,12 @@
 @disabled
 00E55BAC 20008052
 
-// Ink Tank Changer = Tnk_Coop (crashes) [oomi_the_octo]
-@disabled
+// Coop Ink Tank (Salmon Run) [oomi_the_octo]
+@enabled
 03711D38 "Tnk_Coop"
+// Forces Creating Tank
+00E90B88 20008052
+00E90B8C C0035FD6
 
 // Use Save Data from "DebugUnderPilot/SaveData/save.dat" (Broken) [oomi_the_octo]
 @disabled
