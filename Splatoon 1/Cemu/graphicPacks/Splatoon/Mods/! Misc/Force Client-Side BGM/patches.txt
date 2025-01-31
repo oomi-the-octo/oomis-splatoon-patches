@@ -1,0 +1,5 @@
+[Force Client-Side BGM]
+moduleMatches = 0x659c782e
+
+0x02175f7c = li r26, $bgmsettingcs
+0x02175fb8 = addi r11, r26, 0x0 # why adding 1 to the id???
