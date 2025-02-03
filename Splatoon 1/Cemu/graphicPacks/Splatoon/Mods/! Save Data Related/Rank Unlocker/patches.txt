@@ -1,0 +1,7 @@
+[Rank Unlocker]
+moduleMatches = 0x659c782e
+
+0x021aeb70 = nop
+0x021aeb74 = nop
+0x021aeb30 = nop
+0x021aeb34 = nop
