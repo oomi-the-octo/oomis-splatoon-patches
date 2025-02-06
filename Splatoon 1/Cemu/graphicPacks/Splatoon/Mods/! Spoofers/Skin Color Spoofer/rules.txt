@@ -1,0 +1,49 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Skin Color Spoofer
+path = "Splatoon/Mods/Spoofers/Skin Color Spoofer"
+description = Allow you to spoof your skin color. Made by @oomi_the_octo.
+version = 6
+
+[Default]
+$skinspoof = 0
+
+[Preset]
+name = Pale White Skin
+category = Skin Color:
+$skinspoof = 0
+
+[Preset]
+name = Light Beige Skin
+category = Skin Color:
+$skinspoof = 1
+
+[Preset]
+name = Beige Skin
+category = Skin Color:
+$skinspoof = 2
+
+[Preset]
+name = Moderate Brown Skin
+category = Skin Color:
+$skinspoof = 3
+
+[Preset]
+name = Dark Brown Skin
+category = Skin Color:
+$skinspoof = 4
+
+[Preset]
+name = Black Skin
+category = Skin Color:
+$skinspoof = 5
+
+[Preset]
+name = Full Dark Skin
+category = Skin Color:
+$skinspoof = 6
+
+[Preset]
+name = Sunburn Skin (Octoling)
+category = Skin Color:
+$skinspoof = 7
