@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Disable Drawing Nametags
+path = "Splatoon/Mods/Player Related/Disable Drawing Nametags"
+description = Disables every Nametags shown, whenever in team, or enemy, without enabling PhotographMode. Made by @oomi_the_octo.
+version = 6

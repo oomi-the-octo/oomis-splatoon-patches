@@ -1,0 +1,4 @@
+[Disable Drawing Nametags]
+moduleMatches = 0x659c782e
+
+0x0248c504 = li r7, 1
