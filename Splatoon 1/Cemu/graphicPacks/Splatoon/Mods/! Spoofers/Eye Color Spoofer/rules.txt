@@ -1,0 +1,44 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Eye Color Spoofer
+path = "Splatoon/Mods/Spoofers/Eye Color Spoofer"
+description = Allow you to spoof your eye color. Made by @oomi_the_octo.
+version = 6
+
+[Default]
+$eyespoof = 0
+
+[Preset]
+name = Brown Eyes
+category = Eye Color:
+$eyespoof = 0
+
+[Preset]
+name = Purple Eyes
+category = Eye Color:
+$eyespoof = 1
+
+[Preset]
+name = Blue Eyes
+category = Eye Color:
+$eyespoof = 2
+
+[Preset]
+name = Orange Eyes
+category = Eye Color:
+$eyespoof = 3
+
+[Preset]
+name = Green Eyes
+category = Eye Color:
+$eyespoof = 4
+
+[Preset]
+name = Black Eyes
+category = Eye Color:
+$eyespoof = 5
+
+[Preset]
+name = Yellow Eyes
+category = Eye Color:
+$eyespoof = 6

@@ -1,0 +1,4 @@
+[Eye Spoofer]
+moduleMatches = 0x659c782e
+
+0x021a9360 = li r3, $eyespoof
