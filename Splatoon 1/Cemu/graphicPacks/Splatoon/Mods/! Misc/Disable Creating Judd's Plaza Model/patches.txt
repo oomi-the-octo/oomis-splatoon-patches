@@ -1,0 +1,4 @@
+[Disable Creating Judd's Plaza Model]
+moduleMatches = 0x659c782e
+
+0x02616cd8 = li r12, 1

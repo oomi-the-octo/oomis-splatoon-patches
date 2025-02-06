@@ -1,0 +1,4 @@
+[Create Randomized Plaza NPCs]
+moduleMatches = 0x659c782e
+
+0x026face4 = li r0, 1

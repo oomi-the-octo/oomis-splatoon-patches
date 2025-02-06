@@ -1,0 +1,4 @@
+[Disable Creating Spyke's Plaza Model]
+moduleMatches = 0x659c782e
+
+0x02610fe0  = li r0, 1

@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Create Randomized Plaza NPCs
+path = "Splatoon/Mods/Misc/Create Randomized Plaza NPCs"
+description = Enables creating randomized Plaza NPC data without enabling PhotographMode. Made by @oomi_the_octo.
+version = 6

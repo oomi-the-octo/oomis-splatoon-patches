@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Disable Creating Judd's Plaza Model
+path = "Splatoon/Mods/Misc/Disable Creating Judd's Plaza Model"
+description = Disables creating Judd's model in the plaza, without enabling PhotographMode. Made by @oomi_the_octo.
+version = 6
