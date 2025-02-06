@@ -2,16 +2,3 @@
 moduleMatches = 0x659c782e
 
 0x021a9354 = li r3, $skinspoof
-
-# 0x021AE298 = li r3, 0x7
-# 0x021AE29C = blr
-
-# Values:
-# 0x0 - Pale White
-# 0x1 - Light Beige
-# 0x2 - Beige
-# 0x3 - Moderate Brown
-# 0x4 - Dark Brown
-# 0x5 - Black
-# 0x6 - Dark Skin
-# 0x7 - Octoling Skin Tone
