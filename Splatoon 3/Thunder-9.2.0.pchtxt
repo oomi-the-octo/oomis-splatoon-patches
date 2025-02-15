@@ -8,3 +8,8 @@
 // Show All Versus Maps [oomi_the_octo]
 @disabled
 01775640 E8031F2A
+
+// Hidden Weapons In Shop [oomi_the_octo]
+@enabled
+017814F0 E8031F2A
+01781490 E8031F2A
