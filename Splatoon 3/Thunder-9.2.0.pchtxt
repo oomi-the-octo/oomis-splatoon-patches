@@ -5,11 +5,11 @@
 @disabled
 01a990f8 20008052
 
-// Show All Versus Maps [oomi_the_octo]
+// Show All Versus Maps (apply before boot) [oomi_the_octo]
 @disabled
 01775640 E8031F2A
 
-// Hidden Weapons In Shop [oomi_the_octo]
-@enabled
+// Hidden Weapons In Shop (apply before boot) [oomi_the_octo]
+@disabled
 017814F0 E8031F2A
 01781490 E8031F2A
