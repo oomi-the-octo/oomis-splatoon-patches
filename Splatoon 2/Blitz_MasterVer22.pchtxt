@@ -8,7 +8,7 @@
 00E55BAC 20008052
 
 // Coop Ink Tank (Salmon Run) [oomi_the_octo]
-@enabled
+@disabled
 03711D38 "Tnk_Coop"
 00E90B88 20008052C0035FD6 // Forces Creating Tank
 
@@ -46,5 +46,5 @@
 03715883 "GndColTest"
 
 // See Everyone's Nametags [oomi_the_octo]
-@enabled
+@disabled
 00E440C4 3F010071
