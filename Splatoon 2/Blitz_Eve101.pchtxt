@@ -4,25 +4,31 @@
 @flag offset_shift 0x100
 
 // Game::Player::isInDebugMove_UpDown = true [oomi_the_octo]
-@enabled
+@disabled
 00899220 20008052
 
 // You will need a dump of Splatoon 2 BCAT rotation for this.
 // Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
-@enabled
+@disabled
 00138FB8 E0031F2AC0035FD6
 
 // Set ChangeLanMatchInBoot to true [oomi_the_octo]
-@enabled
+@disabled
 00B2BF48 1F2003D528008052
 
 // Force "Lp::Utl::Matching::isLogIn" to be true [oomi_the_octo]
-@enabled
+@disabled
 01307B3C 20008052C0035FD6
 
 // Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
-@enabled
+@disabled
 0124E344 1F2003D5
+
+// Enable 2D Cube Debug Drawing + Squares [oomi_the_octo]
+@disabled
+0106554c 1F2003D5
+010655c4 1F2003D5
+01065968 1F2003D5
 
 // Set RomType to JP [oomi_the_octo]
 @disabled
