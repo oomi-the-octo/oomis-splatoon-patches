@@ -13,11 +13,11 @@
 00327EA0 48008052
 
 // Force "Lp::Utl::Matching::isLogIn" to be true [oomi_the_octo]
-@enabled
+@disabled
 019F2888 20008052C0035FD6
 
 // Enable 2D Cube Debug Drawing + Squares [oomi_the_octo]
-@enabled
+@disabled
 018514c4 1F2003D5
 01851918 1F2003D5
 0185153c 1F2003D5
