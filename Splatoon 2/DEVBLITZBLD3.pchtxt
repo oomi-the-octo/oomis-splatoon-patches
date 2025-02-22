@@ -165,6 +165,10 @@
 @disabled
 00FFD534 1F2003D5
 
+// Enable 2D Cube Debug Drawing [oomi_the_octo]
+@disabled
+00E7BD40 1F2003D5
+
 // Translation might not be perfect, did my best. Sorry!
 // More English translation for Debug Menu [oomi_the_octo]
 @enabled
