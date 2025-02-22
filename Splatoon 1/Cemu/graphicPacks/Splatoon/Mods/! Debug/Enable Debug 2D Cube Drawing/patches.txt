@@ -1,0 +1,4 @@
+[Enable Debug 2D Cube Drawing]
+moduleMatches = 0x659c782e
+
+0x02ad72e4 = nop

@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Enable Debug 2D Cube Drawing
+path = "Splatoon/Mods/Debug/Enable Debug 2D Cube Drawing"
+description = Enables drawing debug lines which forms a cube in your TV Screen. Made by @oomi_the_octo.
+version = 7
