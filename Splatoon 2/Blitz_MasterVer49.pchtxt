@@ -15,3 +15,53 @@
 // Force "Lp::Utl::Matching::isLogIn" to be true [oomi_the_octo]
 @enabled
 019F2888 20008052C0035FD6
+
+// Enable 2D Cube Debug Drawing + Squares [oomi_the_octo]
+@enabled
+018514c4 1F2003D5
+01851918 1F2003D5
+0185153c 1F2003D5
+
+// Set RomType: JP [oomi_the_octo]
+@disabled
+000E23A0 00008052C0035FD6
+
+// Set RomType: US [oomi_the_octo]
+@disabled
+000E23A0 20008052C0035FD6
+
+// Set RomType: EU [oomi_the_octo]
+@disabled
+000E23A0 40008052C0035FD6
+
+// Set RomType: EveJP [oomi_the_octo]
+@disabled
+000E23A0 60008052C0035FD6
+
+// Set RomType: EveUS [oomi_the_octo]
+@disabled
+000E23A0 80008052C0035FD6
+
+// Set RomType: EveEU [oomi_the_octo]
+@disabled
+000E23A0 A0008052C0035FD6
+
+// Set RomType: ShowFloor [oomi_the_octo]
+@disabled
+000E23A0 C0008052C0035FD6
+
+// Set RomType: ShowDL [oomi_the_octo]
+@disabled
+000E23A0 E0008052C0035FD6
+
+// Set RomType: TrialJP [oomi_the_octo]
+@disabled
+000E23A0 00018052C0035FD6
+
+// Set RomType: TrialUS [oomi_the_octo]
+@disabled
+000E23A0 20018052C0035FD6
+
+// Set RomType: TrialEU [oomi_the_octo]
+@disabled
+000E23A0 40018052C0035FD6
