@@ -24,6 +24,11 @@
 @disabled
 019BF9C0 1F2003D5
 
+// Enable 2D Cube Debug Drawing + Squares [oomi_the_octo]
+@disabled
+017bc998 1F2003D5
+017bcdec 1F2003D5
+
 // FreeTestPlayerNum = 1 (No Bots.) [oomi_the_octo]
 @disabled
 00187054 28008052
