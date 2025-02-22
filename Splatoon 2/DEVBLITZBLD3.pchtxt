@@ -24,7 +24,7 @@
 0073C420 BF060071
 
 // See Everyone's Nametags [oomi_the_octo]
-@enabled
+@disabled
 0073C420 1F050071
 
 // Solo Private Battle isn't working... yet.
@@ -78,7 +78,7 @@
 // Please disable PlayerViewer if you are going to use this patch.
 // https://mega.nz/file/ScpFDCKC#vO6u9pKeNtX2vetpmx2EI5gf7h-ngNUc1ztCgsezYqk
 // Construct UdgwTest scene in Cstm::newScene<ThanksForShow::Scene>(sead::Heap *)
-@enabled
+@disabled
 001621D4 00008252
 001621E4 5FCB2294
 0246DC4A "UdgwTest" // Renames "ThanksForShow"
@@ -171,7 +171,7 @@
 
 // Translation might not be perfect, did my best. Sorry!
 // More English translation for Debug Menu [oomi_the_octo]
-@enabled
+@disabled
 024C4A8D "You can use a debug or normal controller"
 024C4ACA "[Moving]"
 024C4AD5 "The L-Stick & D-Pad does the same thing"
@@ -194,15 +194,15 @@
 00000000 00000000
 
 // Ignore Amiibo stuff for Plaza [oomi_the_octo]
-@enabled
+@disabled
 008ADAD4 20008052C0035FD6
 
 // Anti Plaza News Crash [oomi_the_octo]
-@enabled
+@disabled
 006695A4 20008052C0035FD6
 
 // Stop "Obj_PlazaTV%_anim" from loading [oomi_the_octo]
-@enabled
+@disabled
 0066B770 20008052C0035FD6
 
 // -- Network Patches --
