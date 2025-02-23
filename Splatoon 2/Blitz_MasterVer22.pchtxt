@@ -16,9 +16,9 @@
 @disabled
 0123180C 68008052
 
-// MovelessPlayerDetectSec set to 39321 sec. [oomi_the_octo]
+// OnlineMovelessPlayerChecker Disabler [oomi_the_octo]
 @disabled
-00DD5F14 29339352
+00dd618C C0008052
 
 // Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
 @disabled
