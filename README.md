@@ -1,6 +1,6 @@
 # Oomi's Splatoon Patches 
 This contains my public Splatoon patches.
-> **⚠ Do NOT use any Splatoon 2/3 Patches online!! Use them in EmuMMC with 90DNS. ⚠**
+> **⚠ Do NOT use any Splatoon 2/3 Patches online!! It is recommended to use them in EmuMMC with 90DNS. ⚠**
 
 > The links for the patches:
 ## Splatoon 1:
@@ -14,6 +14,7 @@ This contains my public Splatoon patches.
 ## Splatoon 3:
 - [1.0.0 Patches](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%203/Thunder-1.0.0.pchtxt) = Splatoon 3 1.0.0 Patches.
 - [9.2.0 Patches](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%203/Thunder-9.2.0.pchtxt) = Splatoon 3 9.2.0 Patches.
+
 > Credits:
 
 [agent3player](https://x.com/3_player95950) - Made the Splatfest patch for "DEVBLITZBLD3."
