@@ -1,6 +1,6 @@
 # Oomi's Splatoon Patches 
 This contains my public Splatoon patches.
-> **⚠ Do NOT use any Splatoon 2/3 Patches online!! It is recommended to use them in EmuMMC with 90DNS. ⚠**
+> **⚠ Do NOT use any Splatoon 2/3 Patches online!! It is recommended to use them in EmuMMC with 90DNS.**
 
 > The links for the patches:
 ## Splatoon 1:
