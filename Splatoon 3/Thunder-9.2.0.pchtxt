@@ -17,7 +17,7 @@
 // Allows using Hidden gear/weapons in a versus room without getting an error, as long as the others also use this patch.
 // UserSettingValidation Error Bypasser [oomi_the_octo]
 @enabled
-03f1d544 1F2003D5
+03b5388c C0035FD6
 
 // Replace Cop_Tutorial with Cop_Manbou00 (Big Run Grand Splatlands Bowl) [oomi_the_octo]
 @disabled
