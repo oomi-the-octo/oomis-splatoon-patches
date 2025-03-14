@@ -1,0 +1,24 @@
+@nsobid-CBE4696EC90B4582092D9EFB6B962074B85EADE7
+# Splatoon 3 9.3.0
+
+// Silent Hit [oomi_the_octo]
+@disabled
+01A99108 20008052
+
+// Show All Versus Maps (apply before boot) [oomi_the_octo]
+@disabled
+01775680 E8031F2A
+
+// ALL Weapons In Shop (Use At Boot) [oomi_the_octo]
+@disabled
+01781530 E8031F2A
+017814D0 E8031F2A
+
+// Allows using Hidden gear/weapons in a versus room without getting an error, as long as the others also use this patch.
+// UserSettingValidation Error Bypasser [oomi_the_octo]
+@disabled
+03B5A2AC C0035FD6
+
+// Replace Cop_Tutorial with Cop_Manbou00 (Big Run Grand Splatlands Bowl) [oomi_the_octo]
+@disabled
+0641343C "Cop_Manbou00"
