@@ -14,7 +14,7 @@ This contains my public Splatoon patches.
 ## Splatoon 3:
 - [1.0.0 Patches](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%203/Thunder-1.0.0.pchtxt) = Splatoon 3 1.0.0 Patches.
 - [9.2.0 Patches](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%203/Thunder-9.2.0.pchtxt) = Splatoon 3 9.2.0 Patches.
-- [9.2.0 Patches](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%203/Thunder-9.3.0.pchtxt) = Splatoon 3 9.3.0 Patches.
+- [9.3.0 Patches](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%203/Thunder-9.3.0.pchtxt) = Splatoon 3 9.3.0 Patches.
 
 > Credits:
 
