@@ -65,3 +65,7 @@
 // Set RomType: TrialEU [oomi_the_octo]
 @disabled
 000E23A0 40018052C0035FD6
+
+// Free Shop Gear Price [oomi_the_octo]
+@disabled
+0007f1cc 00008052
