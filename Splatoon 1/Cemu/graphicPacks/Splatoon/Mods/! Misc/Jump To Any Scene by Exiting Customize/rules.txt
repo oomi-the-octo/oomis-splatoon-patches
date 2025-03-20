@@ -2,7 +2,7 @@
 titleIds = 0005000010176900,0005000010176A00,0005000010162B00
 name = Jump To Any Scene by Exiting Customize
 path = "Splatoon/Mods/Misc/Jump To Any Scene by Exiting Customize"
-description = Allows you to choose any transition. Made by @oomi_the_octo.
+description = Allows you to choose any scene to jump when exiting Customize. Made by @oomi_the_octo.
 version = 6
 
 [Default]
