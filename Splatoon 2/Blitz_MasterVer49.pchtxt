@@ -69,3 +69,7 @@
 // Free Shop Gear Price [oomi_the_octo]
 @disabled
 0007f1cc 00008052
+
+// Offline Shop [oomi_the_octo]
+@disabled
+0150c778 20008052
