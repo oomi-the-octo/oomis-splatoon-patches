@@ -62,6 +62,10 @@
 00180824 28008052
 00B81C6C 20008052
 
+// Free Shop Gear Price [oomi_the_octo]
+@disabled
+0002AD90 00008052
+
 // Offline Shop [oomi_the_octo]
 @disabled
 00BE1874 20008052
