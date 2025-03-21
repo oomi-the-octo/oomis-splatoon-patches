@@ -15,6 +15,9 @@ This contains my public Splatoon patches.
 - [9.2.0 Patches](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%203/Thunder-9.2.0.pchtxt) = Splatoon 3 9.2.0 Patches.
 - [9.3.0 Patches](https://github.com/oomi-the-octo/oomis-splatoon-patches/blob/main/Splatoon%203/Thunder-9.3.0.pchtxt) = Splatoon 3 9.3.0 Patches.
 
+## Can i submit a patch i made?
+Sure, you can make a pull request to add your patches. **Make sure to also add your credits.** I'll also add credits to the readme (if i don't forget, lol!)
+
 > Credits:
 
 [agent3player](https://x.com/3_player95950) - Made the "Splatfest" patch for "DEVBLITZBLD3."
