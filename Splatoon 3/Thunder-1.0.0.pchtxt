@@ -10,3 +10,8 @@
 // Infinite Ink [oomi_the_octo]
 @disabled
 02492120 20008052C0035FD6
+
+// Show ALL Weapons In Shop (Use At Boot) [oomi_the_octo]
+@enabled
+01419f64 E8031F2A
+01419f04 E8031F2A
