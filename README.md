@@ -18,6 +18,8 @@ This contains my public Splatoon patches.
 
 > Credits:
 
-[agent3player](https://x.com/3_player95950) - Made the Splatfest patch for "DEVBLITZBLD3."
+[agent3player](https://x.com/3_player95950) - Made the "Splatfest" patch for "DEVBLITZBLD3."
 
-[YoshiCrystal](https://github.com/YoshiCrystal9) - Made the fullOpen save patch for "DEVBLITZBLD3."
+[YoshiCrystal](https://github.com/YoshiCrystal9) - Made the "fullOpen" save patch for "DEVBLITZBLD3."
+
+[Pirlo](https://x.com/0x1CAA9C5C) - Made the "Solo Private Battles" for "Blitz_Eve101."
