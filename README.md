@@ -2,7 +2,6 @@
 This contains my public Splatoon patches.
 > **⚠ Do NOT use any Splatoon 2/3 Patches online!! It is recommended to use them in EmuMMC with 90DNS.**
 
-> The links for the patches:
 ## Splatoon 1:
 - [Gambit](https://github.com/oomi-the-octo/oomis-splatoon-patches/tree/main/Splatoon%201) = Obviously Splatoon 1 patches.
 ## Splatoon 2:
