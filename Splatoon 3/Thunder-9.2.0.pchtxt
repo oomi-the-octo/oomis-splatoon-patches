@@ -9,12 +9,12 @@
 @disabled
 01775640 E8031F2A
 
-// Hidden Weapons In Shop (apply before boot) [oomi_the_octo]
+// ALL Weapons In Shop (Use At Boot) [oomi_the_octo]
 @disabled
 017814F0 E8031F2A
 01781490 E8031F2A
 
-// Allows using Hidden gear/weapons in a versus room without getting an error, as long as the others also use this patch.
+// Allows using Illegal gear/weapons in a versus room without getting an error, as long as the others also use this patch.
 // UserSettingValidation Error Bypasser [oomi_the_octo]
 @disabled
 03b5388c C0035FD6
