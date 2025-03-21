@@ -53,3 +53,11 @@
 // Ink Tank Changer [oomi_the_octo]
 @disabled
 0285AE50 "Tnk_Coop"
+
+// Solo Private Battles [Pirlo]
+@disabled
+00B87404 29008052
+00B6B674 29008052
+0018581C 28008052
+00180824 28008052
+00B81C6C 20008052
