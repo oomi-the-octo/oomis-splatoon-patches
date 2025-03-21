@@ -22,6 +22,18 @@
 01851918 1F2003D5
 0185153c 1F2003D5
 
+// Disable "OnlinePlayPenalty" [oomi_the_octo]
+@disabled
+00397C70 48008052
+
+// OnlineMovelessPlayerChecker Disabler [oomi_the_octo]
+@disabled
+00F8ED48 C0008052
+
+// Enable "IsForceReloadMap" [oomi_the_octo]
+@disabled
+00164460 28008052
+
 // Set RomType: JP [oomi_the_octo]
 @disabled
 000E23A0 00008052C0035FD6
