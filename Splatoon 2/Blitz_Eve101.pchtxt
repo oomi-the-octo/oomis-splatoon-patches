@@ -12,6 +12,14 @@
 @disabled
 00138FB8 E0031F2AC0035FD6
 
+// Disable "OnlinePlayPenalty" [oomi_the_octo]
+@disabled
+00199D28 48008052
+
+// OnlineMovelessPlayerChecker Disabler [oomi_the_octo]
+@disabled
+00855B18 C0008052
+
 // Set ChangeLanMatchInBoot to true [oomi_the_octo]
 @disabled
 00B2BF48 1F2003D528008052
