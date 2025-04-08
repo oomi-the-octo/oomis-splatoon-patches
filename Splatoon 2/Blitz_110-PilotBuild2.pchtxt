@@ -10,3 +10,44 @@
 // Enable Seaweed Physics Everywhere [oomi_the_octo]
 @disabled
 0014A19C 48008052
+
+// Set RomType: JP [oomi_the_octo]
+@disabled
+000ab2c0 00008052C0035FD6
+
+// Set RomType: US [oomi_the_octo]
+@disabled
+000ab2c0 20008052C0035FD6
+
+// Set RomType: EU [oomi_the_octo]
+@disabled
+000ab2c0 40008052C0035FD6
+
+// Set RomType: EveJP [oomi_the_octo]
+@disabled
+000ab2c0 60008052C0035FD6
+
+// Set RomType: EveUS [oomi_the_octo]
+@disabled
+000ab2c0 80008052C0035FD6
+
+// Set RomType: EveEU [oomi_the_octo]
+@disabled
+000ab2c0 A0008052C0035FD6
+
+// Set RomType: ShowFloor [oomi_the_octo]
+@disabled
+000ab2c0 C0008052C0035FD6
+
+// Set RomType: ShowDL [oomi_the_octo]
+@disabled
+000ab2c0 E0008052C0035FD6
+
+// Allows sending packet data to other clients faster for more accurate gameplay.
+// Set "UnreliableSendInterval" to 0 [oomi_the_octo]
+@disabled
+00228B4C 08008052
+
+// OnlineMovelessPlayerChecker Disabler [oomi_the_octo]
+@disabled
+00ad00b4 C0008052
