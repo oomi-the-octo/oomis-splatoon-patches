@@ -1,0 +1,12 @@
+@nsobid-FA3897E0FADDD49C69ED00F23E705B3E
+# Splatoon 2 1.1.0 Pilot
+
+@flag offset_shift 0x100
+
+// Enable DummyMatch LAN [oomi_the_octo]
+@disabled
+00E2EA00 28008052
+
+// Enable Seaweed Physics Everywhere [oomi_the_octo]
+@disabled
+0014A19C 48008052
