@@ -13,35 +13,35 @@
 
 // Set RomType: JP [oomi_the_octo]
 @disabled
-000ab2c0 00008052C0035FD6
+000AB2C0 00008052C0035FD6
 
 // Set RomType: US [oomi_the_octo]
 @disabled
-000ab2c0 20008052C0035FD6
+000AB2C0 20008052C0035FD6
 
 // Set RomType: EU [oomi_the_octo]
 @disabled
-000ab2c0 40008052C0035FD6
+000AB2C0 40008052C0035FD6
 
 // Set RomType: EveJP [oomi_the_octo]
 @disabled
-000ab2c0 60008052C0035FD6
+000AB2C0 60008052C0035FD6
 
 // Set RomType: EveUS [oomi_the_octo]
 @disabled
-000ab2c0 80008052C0035FD6
+000AB2C0 80008052C0035FD6
 
 // Set RomType: EveEU [oomi_the_octo]
 @disabled
-000ab2c0 A0008052C0035FD6
+000AB2C0 A0008052C0035FD6
 
 // Set RomType: ShowFloor [oomi_the_octo]
 @disabled
-000ab2c0 C0008052C0035FD6
+000AB2C0 C0008052C0035FD6
 
 // Set RomType: ShowDL [oomi_the_octo]
 @disabled
-000ab2c0 E0008052C0035FD6
+000AB2C0 E0008052C0035FD6
 
 // Allows sending packet data to other clients faster for more accurate gameplay.
 // Set "UnreliableSendInterval" to 0 [oomi_the_octo]
@@ -50,4 +50,8 @@
 
 // OnlineMovelessPlayerChecker Disabler [oomi_the_octo]
 @disabled
-00ad00b4 C0008052
+00AD00B4 C0008052
+
+// Allow Rocket Mode in Private Battles [oomi_the_octo]
+@disabled
+00E9E67C 20008052
