@@ -55,3 +55,13 @@
 // Allow Rocket Mode in Private Battles [oomi_the_octo]
 @disabled
 00E9E67C 20008052
+
+// Redirect Shop Scene to "UdgwTest::Scene::Scene" [oomi_the_octo]
+@disabled
+00230AD0 00008252
+00230AE0 D0E03394
+
+// Redirect Shop Scene to "GearUnsetupTest::Scene::Scene" [oomi_the_octo]
+@disabled
+00230AD0 00008252
+00230AE0 90123094
