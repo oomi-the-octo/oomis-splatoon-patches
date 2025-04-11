@@ -3,10 +3,6 @@
 
 @flag offset_shift 0x100
 
-// (USELESS atm.) Enable Lp::Sys::TimeStamp::entryDraw [oomi_the_octo]
-@disabled
-01967D8C 1F2003D5
-
 // You will need a dump of Splatoon 2 BCAT rotation for this.
 // Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
 @disabled
@@ -85,3 +81,12 @@
 // Offline Shop [oomi_the_octo]
 @disabled
 0150c778 20008052
+
+// Add Cstm::newScene function for FreeTest [oomi_the_octo]
+@disabled
+01B5DF48 088DA002
+01B5DF58 8C5B3A00
+
+// Allow "CorrectSeq" GameConfigSetting Usage [oomi_the_octo]
+@disabled
+0147B240 20008052
