@@ -15,7 +15,7 @@
 017814D0 E8031F2A
 
 // Free Gear In Shop Scene (Apply Before Boot) [oomi_the_octo]
-@enabled
+@disabled
 01706704 E8031F2A
 01706764 E8031F2A
 01706904 E8031F2A
