@@ -5,14 +5,20 @@
 @disabled
 01A99108 20008052
 
-// Show All Versus Maps (apply before boot) [oomi_the_octo]
+// Show All Versus Maps (Apply Before Boot) [oomi_the_octo]
 @disabled
 01775680 E8031F2A
 
-// ALL Weapons In Shop (Use At Boot) [oomi_the_octo]
+// ALL Weapons In Shop (Apply Before Boot) [oomi_the_octo]
 @disabled
 01781530 E8031F2A
 017814D0 E8031F2A
+
+// Free Gear In Shop Scene (Apply Before Boot) [oomi_the_octo]
+@enabled
+01706704 E8031F2A
+01706764 E8031F2A
+01706904 E8031F2A
 
 // Allows using Illegal gear/weapons in a versus room without getting an error, as long as the others also use this patch.
 // UserSettingValidation Error Bypasser [oomi_the_octo]
