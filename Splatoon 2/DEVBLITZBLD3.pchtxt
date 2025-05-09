@@ -273,12 +273,43 @@
 @disabled
 009788A4 0527DE97
 
-// Fix DummyMatch Text [oomi_the_octo]
+// Fix Most Broken Displayed Debug Text [oomi_the_octo]
 @disabled
-0098885c 2A00C0D2
-009886e0 3600C0D2
-00988388 2900C0D2
-009882d8 2A00C0D2
-009881c0 2A00C0D2
-009880bc 2A00C0D2
-00987f00 2A00C0D2
+0098e070 2900c0d2 // GearUnsetupTest::Player::fourthCalc
+00ffc198 2900c0d2 // Lp::Sys::MemProfiler::calc
+0059a230 2a00c0d2 // Game::Decoy::respawn_
+0059b774 2a00c0d2 // Game::Decoy::stateThrown_
+0059badc 2a00c0d2 // Game::Decoy::stateDamaged_
+00a1a270 2800c0d2 // UICheck::PhaseCoopTest::stateWaveHeight
+00fc9af4 2800c0d2 // SampleLua::Scene::drawDbg_
+00fc97e4 2a00c0d2 // SampleLua::Scene::sceneCalc
+00fc98ec 2900c0d2 // SampleLua::Scene::sceneCalc
+00978f10 2800c0d2 // Boot::Scene::sceneCalc
+00fff848 2900c0d2 // Lp::Sys::WarningMgr::entryWarning
+009f3d04 2a00c0d2 // ScheduleViewer::Scene::entryVersusStageInfo
+009f2c44 2800c0d2 // ScheduleViewer::Scene::stateUnlockVersusRule
+009f2f08 2800c0d2 // ScheduleViewer::Scene::stateUnlockVersusStage
+009f35a8 2900C0D2 // ScheduleViewer::Scene::entryVersusPhaseInfo
+0098c288 2800c0d2 // EnemyObjViewer::MdlActor::calcForDraw
+007ff794 2800c0d2 // Game::PlazaDevUtl::EntryDebugText
+00991ab0 2800c0d2 // IconCapture::Scene::calcForDraw
+009ee33c 2900C0D2 // PlayerViewer::Player::calcForDraw
+007ff6dc 2800c0d2 // Game::PlazaDevUtl::EntryDebugText
+009a4608 2800C0D2 // Lobby::LocalSessionInfoList::dbgEntry
+0098885c 2A00C0D2 // DummyMatch
+009886e0 3600C0D2 // ^ 
+00988388 2900C0D2 // ^ 
+009882d8 2A00C0D2 // ^ 
+009881c0 2A00C0D2 // ^ 
+009880bc 2A00C0D2 // ^ 
+00987f00 2A00C0D2 // ^ 
+009885a4 2800c0d2 // ^ 
+00988a04 2800c0d2 // ^ 
+00986cbc 2a00c0d2 // DummyLocalMatch
+009874e8 2a00c0d2 // ^ 
+00987690 2800c0d2 // ^ 
+0098736c 3600c0d2 // ^ 
+00987018 2900c0d2 // ^ 
+00987230 2800c0d2 // ^ 
+00986b3c 2a00c0d2 // ^ 
+00986e64 2a00c0d2 // ^ 
