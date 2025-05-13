@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = PrivateMatch MapID Extender
+path = "Splatoon/Mods/Misc/PrivateMatch MapID Extender"
+description = Unlocks the private battle Map ID limit from 30 to 9999. NOTE: In order to show all maps, you'll need to edit your BOSS data. (Aka: Shared save data.) Made by @oomi_the_octo.
+version = 7

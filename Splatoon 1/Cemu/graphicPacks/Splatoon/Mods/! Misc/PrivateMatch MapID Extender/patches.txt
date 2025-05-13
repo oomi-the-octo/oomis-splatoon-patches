@@ -1,0 +1,5 @@
+[PrivateMatch MapID Extender]
+moduleMatches = 0x659c782e
+
+0x0208dcc0 = li r30, 9999
+0x0208dd48 = li r28, 9999
