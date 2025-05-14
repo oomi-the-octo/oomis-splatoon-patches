@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = PrivateMatch MapID Validation
+path = "Splatoon/Mods/Misc/PrivateMatch MapID Validation"
+description = Makes every Map ID show in a Private Battle, without the need of having to edit the BOSS Data. (Aka: Shared sabe data.) Made by @oomi_the_octo.
+version = 7
