@@ -1,0 +1,14 @@
+@nsobid-EAA1B8E7D0EED18E54E615CEA09715DE8C8D6887
+# Splatoon 3 Splatfest World Premiere 1.1.0
+
+// Show ALL Weapons In Shop (Use At Boot) [oomi_the_octo]
+@disabled
+013fa61c E8031F2A
+013fa5bc E8031F2A
+
+// Free Gear In Shop & Coop Scene [oomi_the_octo]
+@disabled
+01397168 E8031F2A // Price
+013971c8 E8031F2A // Season
+01397368 E8031F2A // UrokoUnlockLevel
+013967b8 E8031F2A // UrokoPrice
