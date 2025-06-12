@@ -1,0 +1,26 @@
+@nsobid-5E219D08AE786051873FDCEEB618017DB3DCCEEF
+# Splatoon 3 10.0.0
+
+// Show All Versus Maps (Apply Before Boot) [oomi_the_octo]
+@disabled
+01CDC454 E8031F2A
+
+// ALL Weapons In Shop (Apply Before Boot) [oomi_the_octo]
+@disabled
+04DCFA68 E8031F2A 
+04DCFA10 E8031F2A 
+
+// Free Gear In Shop Scene (Apply Before Boot) [oomi_the_octo]
+@disabled
+02BCA68C E8031F2A
+02BCA6E4 E8031F2A
+02BCA788 E8031F2A
+
+// Allows using Illegal gear/weapons in a versus room without getting an error, as long as the others also use this patch.
+// UserSettingValidation Error Bypasser [oomi_the_octo]
+@disabled
+02931190 C0035FD6
+
+// Replace Cop_Tutorial with Cop_Manbou00 [oomi_the_octo]
+@disabled
+05044015 "Cop_Manbou00"
