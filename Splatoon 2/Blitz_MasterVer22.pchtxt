@@ -48,3 +48,7 @@
 // See Everyone's Nametags [oomi_the_octo]
 @disabled
 00E440C4 3F010071
+
+// Enable "Game::CamouflageMgr::debugPrint_" [oomi_the_octo]
+@disabled
+00ddc10c 1F2003D5
