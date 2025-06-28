@@ -52,3 +52,41 @@
 // Enable "Game::CamouflageMgr::debugPrint_" [oomi_the_octo]
 @disabled
 00ddc10c 1F2003D5
+
+// Fix Most Broken Debug Text Display [oomi_the_octo]
+@disabled
+01231d58 2800c0d2 // Boot::Scene::sceneCalc
+019be624 2c00c0d2 // Lp::Sys::MemProfiler::calc
+019bca2c 2c00c0d2 // Lp::Sys::DbgTextWriter::entryCmn
+019c1cc4 2900c0d2 // Lp::Sys::WarningMgr::entryWarning
+012e8c20 2a00c0d2 // ScheduleViewer::Scene::entryVersusStageInfo
+012e84dc 2900c0d2 // ScheduleViewer::Scene::entryVersusPhaseInfo
+012e78b0 2b00c0d2 // ScheduleViewer::Scene::stateUnlockWeapon
+012e7318 2b00c0d2 // ScheduleViewer::Scene::stateUnlockVersusStage
+012e6fd8 2800c0d2 // ScheduleViewer::Scene::stateUnlockVersusRule
+012e265c 2900c0d2 // PlayerViewer::Player::calcForDraw
+01268c94 2800c0d2 // Lobby::LocalSessionInfoList::dbgEntry
+0124f084 2800c0d2 // IconCapture::Scene::calcForDraw
+0124b2d8 2900c0d2 // GearUnsetupTest::Player::fourthCalc
+01248b68 2800c0d2 // EnemyObjViewer::MdlActor::calcForCtrl_CmnPost
+0124455c 2a00c0d2 // DummyMatch::Scene::stateFixed
+012443e0 3600c0d2 // DummyMatch::Scene::stateFixing
+0124409c 2900c0d2 // DummyMatch::Scene::stateMatching
+012442ac 2800c0d2 // ^
+01243fec 2a00c0d2 // DummyMatch::Scene::stateMatchingReady
+01243ec0 2a00c0d2 // DummyMatch::Scene::stateLogIn
+01243dcc 2a00c0d2 // DummyMatch::Scene::stateReady
+01243c18 2a00c0d2 // DummyMatch::Scene::stateWaitStart
+01244704 2800c0d2 // DummyMatch::Scene::entryJoinPlayerInfo
+01243200 2a00c0d2 // DummyLocalMatch::Scene::stateFixed
+01243084 3600c0d2 // DummyLocalMatch::Scene::stateFixing
+01242d44 2900c0d2 // DummyLocalMatch::Scene::stateMatching
+01242f50 2800c0d2 // ^
+01242c94 2a00c0d2 // DummyLocalMatch::Scene::stateJoinSession
+01242b90 2a00c0d2 // DummyLocalMatch::Scene::stateCreateSession
+012429e4 2a00c0d2 // DummyLocalMatch::Scene::stateFindSessionAuto
+01242864 2a00c0d2 // DummyLocalMatch::Scene::stateLocalInit
+012433a8 2800c0d2 // DummyLocalMatch::Scene::entryJoinPlayerInfo
+00f54f08 2800c0d2 // Game::PlazaDevUtl::EntryDebugText
+0198be70 2800c0d2 // SampleLua::Scene::drawDbg_
+0198bc68 2900c0d2 // SampleLua::Scene::sceneCalc
