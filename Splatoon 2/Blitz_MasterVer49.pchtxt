@@ -90,3 +90,11 @@
 // Allow "CorrectSeq" GameConfigSetting Usage [oomi_the_octo]
 @disabled
 0147B240 20008052
+
+// Allow Octoling Gender in PlayerMake FirstBoot [oomi_the_octo]
+@disabled
+014f48dc 20008052
+
+// Skip PlayerMake FirstBoot Tutorial [oomi_the_octo]
+@disabled
+014f46dc 087900d008593791
