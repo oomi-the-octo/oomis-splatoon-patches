@@ -1,0 +1,4 @@
+[Enable Rival Photograph Mode]
+moduleMatches = 0x659c782e
+
+0x0270dd08 = li r3, 1
