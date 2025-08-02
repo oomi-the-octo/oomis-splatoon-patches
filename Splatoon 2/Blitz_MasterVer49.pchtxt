@@ -98,3 +98,11 @@
 // Skip PlayerMake FirstBoot Tutorial [oomi_the_octo]
 @disabled
 014f46dc 087900d008593791
+
+// Enable "Game::RivalMgrOcta::isPhotographMode" [oomi_the_octo]
+@disabled
+014f46dc 20008052
+
+// Enable "Game::RivalMgr::isPhotographMode" [oomi_the_octo]
+@disabled
+01178efc 20008052
