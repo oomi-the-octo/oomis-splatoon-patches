@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Force Basic Font
+path = "Splatoon/Mods/Misc/Force Basic Font"
+description = Changes a default font used instead of the Splatfont one (NOTE: Only enable after boot.) Made by @oomi_the_octo.
+version = 7
