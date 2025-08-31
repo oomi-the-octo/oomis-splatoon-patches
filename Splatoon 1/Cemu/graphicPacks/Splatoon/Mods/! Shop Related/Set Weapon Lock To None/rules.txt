@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Set Weapon Lock To None (Enable At Boot)
+path = "Splatoon/Mods/Shop Related/Set Weapon Lock To None (Enable At Boot)"
+description = Allows setting the Weapon lock to None. Made by @oomi_the_octo.
+version = 6

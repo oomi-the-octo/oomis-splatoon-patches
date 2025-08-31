@@ -1,0 +1,4 @@
+[Set Weapon Lock To None]
+moduleMatches = 0x659c782e
+
+0x02024f6c = nop
