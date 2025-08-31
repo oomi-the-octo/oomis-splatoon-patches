@@ -1,0 +1,5 @@
+[Disable Field Animations]
+moduleMatches = 0x659c782e
+
+0x023f9410 = li r0, 1
+0x02429ba0 = li r3, 1
