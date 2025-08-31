@@ -1,0 +1,4 @@
+[Fully Force Player To Look Forward]
+moduleMatches = 0x659c782e
+
+0x02637d44 = li r31, 1
