@@ -87,6 +87,11 @@
 01B5DF48 088DA002
 01B5DF58 8C5B3A00
 
+// FreeTest over WalkThrough (Recon) [oomi_the_octo]
+@disabled
+000a6f40 a91b01b029ed2591
+014b32fc 487b009008ed2591
+
 // Allow "CorrectSeq" GameConfigSetting Usage [oomi_the_octo]
 @disabled
 0147B240 20008052
