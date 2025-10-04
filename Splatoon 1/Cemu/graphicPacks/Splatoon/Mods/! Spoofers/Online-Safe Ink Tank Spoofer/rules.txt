@@ -19,6 +19,21 @@ category = Current Ink Tank:
 $tankspoofer = 1000
 
 [Preset]
+name = Mission Level 1 Ink Tank
+category = Current Ink Tank:
+$tankspoofer = 1001
+
+[Preset]
+name = Mission Level 2 Ink Tank
+category = Current Ink Tank:
+$tankspoofer = 1002
+
+[Preset]
+name = Mission Level 3 Ink Tank
+category = Current Ink Tank:
+$tankspoofer = 1003
+
+[Preset]
 name = Rival Ink Tank
 category = Current Ink Tank:
 $tankspoofer = 2000
