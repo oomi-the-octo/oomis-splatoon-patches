@@ -3,3 +3,4 @@ moduleMatches = 0x659c782e
 
 0x0202118c = li r3, $tankspoofer
 0x02021190 = blr
+0x02689080 = b 0x02689094
