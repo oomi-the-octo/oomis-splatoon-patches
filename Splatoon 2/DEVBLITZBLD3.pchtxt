@@ -207,6 +207,10 @@
 
 // -- Network Patches --
 
+// Local/Lan Lobby State::cListSelect --> State::cListSelectDbg [oomi_the_octo]
+@disabled
+009a4c40 a1008052
+
 // You will need a dump of Splatoon 2 BCAT rotation for this.
 // Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
 @disabled
