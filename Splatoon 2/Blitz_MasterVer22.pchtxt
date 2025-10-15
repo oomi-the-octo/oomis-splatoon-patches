@@ -53,6 +53,10 @@
 @disabled
 00ddc10c 1F2003D5
 
+// Local/Lan Lobby State::cListSelect --> State::cListSelectDbg [oomi_the_octo]
+@disabled
+0126927c a1008052
+
 // Fix Most Broken Debug Text Display [oomi_the_octo]
 @disabled
 01231d58 2800c0d2 // Boot::Scene::sceneCalc
