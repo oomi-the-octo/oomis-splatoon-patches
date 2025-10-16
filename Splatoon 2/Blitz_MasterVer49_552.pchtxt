@@ -1,0 +1,113 @@
+@nsobid-592C7051A4E620563D0296096D8F0AC5
+# Splatoon 2 5.5.2
+
+@flag offset_shift 0x100
+
+// You will need a dump of Splatoon 2 BCAT rotation for this.
+// Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
+@disabled
+00327EA0 48008052
+
+// Force "Lp::Utl::Matching::isLogIn" to be true [oomi_the_octo]
+@disabled
+019F2888 20008052C0035FD6
+
+// Enable 2D Cube Debug Drawing + Squares [oomi_the_octo]
+@disabled
+018514c4 1F2003D5
+01851918 1F2003D5
+0185153c 1F2003D5
+
+// Disable "OnlinePlayPenalty" [oomi_the_octo]
+@disabled
+00397C70 48008052
+
+// OnlineMovelessPlayerChecker Disabler [oomi_the_octo]
+@disabled
+00F8ED48 C0008052
+
+// Enable "IsForceReloadMap" [oomi_the_octo]
+@disabled
+00164460 28008052
+
+// Set RomType: JP [oomi_the_octo]
+@disabled
+000E23A0 00008052C0035FD6
+
+// Set RomType: US [oomi_the_octo]
+@disabled
+000E23A0 20008052C0035FD6
+
+// Set RomType: EU [oomi_the_octo]
+@disabled
+000E23A0 40008052C0035FD6
+
+// Set RomType: EveJP [oomi_the_octo]
+@disabled
+000E23A0 60008052C0035FD6
+
+// Set RomType: EveUS [oomi_the_octo]
+@disabled
+000E23A0 80008052C0035FD6
+
+// Set RomType: EveEU [oomi_the_octo]
+@disabled
+000E23A0 A0008052C0035FD6
+
+// Set RomType: ShowFloor [oomi_the_octo]
+@disabled
+000E23A0 C0008052C0035FD6
+
+// Set RomType: ShowDL [oomi_the_octo]
+@disabled
+000E23A0 E0008052C0035FD6
+
+// Set RomType: TrialJP [oomi_the_octo]
+@disabled
+000E23A0 00018052C0035FD6
+
+// Set RomType: TrialUS [oomi_the_octo]
+@disabled
+000E23A0 20018052C0035FD6
+
+// Set RomType: TrialEU [oomi_the_octo]
+@disabled
+000E23A0 40018052C0035FD6
+
+// Free Shop Gear Price [oomi_the_octo]
+@disabled
+0007f1cc 00008052
+
+// Offline Shop [oomi_the_octo]
+@disabled
+0150c778 20008052
+
+// Add Cstm::newScene function for FreeTest [oomi_the_octo]
+@disabled
+01B5DF48 088DA002
+01B5DF58 8C5B3A00
+
+// FreeTest over WalkThrough (Recon) [oomi_the_octo]
+@disabled
+000a6f40 a91b01b029ed2591
+014b32fc 487b009008ed2591
+
+// Allow "CorrectSeq" GameConfigSetting Usage [oomi_the_octo]
+@disabled
+0147B240 20008052
+
+// Allow Octoling Gender in PlayerMake FirstBoot [oomi_the_octo]
+@disabled
+014f48dc 20008052
+
+// Skip PlayerMake FirstBoot Tutorial [oomi_the_octo]
+@disabled
+014f46dc 087900d008593791
+
+// Enable "Game::RivalMgrOcta::isPhotographMode" [oomi_the_octo]
+@disabled
+014f46dc 20008052
+
+// Enable "Game::RivalMgr::isPhotographMode" [oomi_the_octo]
+@disabled
+01178efc 20008052
