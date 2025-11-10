@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00,0005000010162B00
+name = Force Validate Save CRC-32
+path = "Splatoon/Mods/Save Data/Force Validate Save CRC-32"
+description = Makes the game validate the CRC-32 hash in the save, even if mismatched. Made by @oomi_the_octo.
+version = 7

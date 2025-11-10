@@ -1,0 +1,4 @@
+[Force Validate Save CRC-32]
+moduleMatches = 0x659c782e
+
+0x021f8418 = li r3, 1
