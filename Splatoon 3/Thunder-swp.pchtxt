@@ -1,6 +1,8 @@
 @nsobid-EAA1B8E7D0EED18E54E615CEA09715DE8C8D6887
 # Splatoon 3 Splatfest World Premiere 1.1.0
 
+@flag offset_shift 0x100
+
 // Show ALL Weapons In Shop (Use At Boot) [oomi_the_octo]
 @disabled
 013fa61c E8031F2A
