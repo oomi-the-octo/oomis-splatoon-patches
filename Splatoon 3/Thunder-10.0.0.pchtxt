@@ -1,6 +1,8 @@
 @nsobid-5E219D08AE786051873FDCEEB618017DB3DCCEEF
 # Splatoon 3 10.0.0
 
+@flag offset_shift 0x100
+
 // Show All Versus Maps (Apply Before Boot) [oomi_the_octo]
 @disabled
 01CDC454 E8031F2A
