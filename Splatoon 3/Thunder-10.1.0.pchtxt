@@ -32,7 +32,7 @@
 04F510B0 "Cop_Manbou00"
 
 // Force HowToGet = Shop [oomi_the_octo]
-@enabled
+@disabled
 016F97B4 00008052600200B9
 
 // Force HowToGet = Catalog [oomi_the_octo]
