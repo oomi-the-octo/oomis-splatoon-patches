@@ -30,3 +30,24 @@
 // Replace Cop_Tutorial with Cop_Manbou00 (Big Run Grand Splatlands Bowl) [oomi_the_octo]
 @disabled
 0641343C "Cop_Manbou00"
+
+// Force HowToGet = Shop [oomi_the_octo]
+@disabled
+016e936c 00008052600200B9
+
+// Force HowToGet = Catalog [oomi_the_octo]
+@disabled
+016e936c 20008052600200B9
+
+// Force HowToGet = Uroko (Salmon Run) [oomi_the_octo]
+@disabled
+016e936c 40008052600200B9
+
+// Force HowToGet = Other [oomi_the_octo]
+@disabled
+016e936c 60008052600200B9
+
+// Force HowToGet = Impossible [oomi_the_octo]
+@disabled
+016e936c 80008052600200B9
+
