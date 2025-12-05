@@ -1,0 +1,52 @@
+@nsobid-C257FC613339A49673DC5F54FF870E620C73FE20
+# Splatoon 3 10.1.0
+
+@flag offset_shift 0x100
+
+// Silent Hit [oomi_the_octo]
+@disabled
+018F74D8 20008052
+
+// Show All Versus Maps (Apply Before Boot) [oomi_the_octo]
+@disabled
+016a730c E8031F2A
+
+// ALL Weapons In Shop (Apply Before Boot) [oomi_the_octo]
+@disabled
+016B1CEC E8031F2A 
+016B1C94 E8031F2A 
+
+// Free Gear In Shop Scene (Apply Before Boot) [oomi_the_octo]
+@disabled
+0163BEEC E8031F2A
+0163BF44 E8031F2A
+0163BFE8 E8031F2A
+
+// Allows using Illegal gear/weapons in a versus room without getting an error, as long as the others also use this patch.
+// UserSettingValidation Error Bypasser [oomi_the_octo]
+@disabled
+0353C1D0 C0035FD6
+
+// Replace Cop_Tutorial with Cop_Manbou00 [oomi_the_octo]
+@disabled
+04F510B0 "Cop_Manbou00"
+
+// Force HowToGet = Shop [oomi_the_octo]
+@enabled
+016F97B4 00008052600200B9
+
+// Force HowToGet = Catalog [oomi_the_octo]
+@disabled
+016F97B4 20008052600200B9
+
+// Force HowToGet = Uroko (Salmon Run) [oomi_the_octo]
+@disabled
+016F97B4 40008052600200B9
+
+// Force HowToGet = Other [oomi_the_octo]
+@disabled
+016F97B4 60008052600200B9
+
+// Force HowToGet = Impossible [oomi_the_octo]
+@disabled
+016F97B4 80008052600200B9
