@@ -30,23 +30,3 @@
 // Replace Cop_Tutorial with Cop_Manbou00 [oomi_the_octo]
 @disabled
 04F510B0 "Cop_Manbou00"
-
-// Force HowToGet = Shop [oomi_the_octo]
-@disabled
-016F97B4 00008052600200B9
-
-// Force HowToGet = Catalog [oomi_the_octo]
-@disabled
-016F97B4 20008052600200B9
-
-// Force HowToGet = Uroko (Salmon Run) [oomi_the_octo]
-@disabled
-016F97B4 40008052600200B9
-
-// Force HowToGet = Other [oomi_the_octo]
-@disabled
-016F97B4 60008052600200B9
-
-// Force HowToGet = Impossible [oomi_the_octo]
-@disabled
-016F97B4 80008052600200B9
