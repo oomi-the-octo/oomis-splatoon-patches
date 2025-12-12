@@ -3,6 +3,10 @@
 
 @flag offset_shift 0x100
 
+// DisableElementDrawing [kirakira]
+@disabled
+01170BA4 C0035FD6 //if you enable this patch at bootup it will get stuck on the splash screen until you disable it with flexlion. -kirakira
+
 // Silent Hit [oomi_the_octo]
 @disabled
 01A99108 20008052
