@@ -50,3 +50,8 @@
 // Force HowToGet = Impossible [oomi_the_octo]
 @disabled
 01620658 80008052600200B9
+
+// Signal Unlimiter [oomi_the_octo]
+@disabled
+02ac48e4 1F2003D5
+02ac4824 1F2003D5
