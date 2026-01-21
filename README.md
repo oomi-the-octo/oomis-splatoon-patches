@@ -12,3 +12,5 @@ Sure, you can make a pull request to add your patches. **Make sure to also add y
 [YoshiCrystal](https://github.com/YoshiCrystal9) - Made the "fullOpen" save patch for "DEVBLITZBLD3."
 
 [Pirlo](https://x.com/0x1CAA9C5C) - Made the "Solo Private Battles" for "Blitz_Eve101."
+
+[kirakira](https://x.com/its_kirakira) - Made the silly "NoDrawElement" patch for "Thunder-930"
