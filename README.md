@@ -15,4 +15,4 @@ Sure, you can make a pull request to add your patches. **Make sure to also add y
 
 [kirakira](https://x.com/its_kirakira) - Made the silly "NoDrawElement" patch for "Thunder-930"
 
-[BluCharro](https://github.com/blucharro) - Made the "Show Codenames Of Gear & Weapons" save patch for "Thunder-11.0.1."
+[BluCharro](https://github.com/blucharro) - Made the "Show Gear & Weapon Codenames" save patch for "Thunder-11.0.1."
