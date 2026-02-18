@@ -14,3 +14,5 @@ Sure, you can make a pull request to add your patches. **Make sure to also add y
 [Pirlo](https://x.com/0x1CAA9C5C) - Made the "Solo Private Battles" for "Blitz_Eve101."
 
 [kirakira](https://x.com/its_kirakira) - Made the silly "NoDrawElement" patch for "Thunder-930"
+
+[BluCharro](https://github.com/blucharro) - Made the "Show Codenames Of Gear & Weapons" save patch for "Thunder-11.0.1."
