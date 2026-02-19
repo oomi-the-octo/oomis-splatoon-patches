@@ -15,3 +15,23 @@
 @disabled
 01419f64 E8031F2A
 01419f04 E8031F2A
+
+// HowToGet = Shop [oomi_the_octo]
+@disabled
+013a4dfc 00008052600200B9
+
+// HowToGet = Catalog [oomi_the_octo]
+@disabled
+013a4dfc 20008052600200B9
+
+// HowToGet = Uroko (Salmon Run) [oomi_the_octo]
+@disabled
+013a4dfc 40008052600200B9
+
+// HowToGet = Other [oomi_the_octo]
+@disabled
+013a4dfc 60008052600200B9
+
+// HowToGet = Impossible [oomi_the_octo]
+@disabled
+013a4dfc 80008052600200B9
