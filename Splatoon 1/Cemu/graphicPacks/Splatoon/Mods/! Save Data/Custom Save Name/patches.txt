@@ -1,6 +1,5 @@
 [Custom Save Name]
 moduleMatches = 0x659c782e
 
-# Note: Putting a file type (ex. "dat") is not needed.
-# 10 Character MAX. 
-0x1012951c = .string "save.dat"
+0x1012951c = .string "save.dat" # Read
+0x10030d54 = .string "save.dat" # Write
