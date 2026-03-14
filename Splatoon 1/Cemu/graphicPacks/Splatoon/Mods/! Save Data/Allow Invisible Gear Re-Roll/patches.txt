@@ -1,0 +1,4 @@
+[Allow Invisible Gear Re-Roll]
+moduleMatches = 0x659c782e
+
+0x024b3c98 = cmpwi r9, -1
