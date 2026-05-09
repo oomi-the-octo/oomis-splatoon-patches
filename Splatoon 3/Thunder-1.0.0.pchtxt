@@ -39,3 +39,8 @@
 // NoMemory Error Bypass [oomi_the_octo]
 @disabled
 02eebdf4 1F2003D5
+
+// Signal Unlimiter [oomi_the_octo]
+@disabled
+026ac040 08008052
+026ac238 09008052
