@@ -35,3 +35,7 @@
 // HowToGet = Impossible [oomi_the_octo]
 @disabled
 013a4dfc 80008052600200B9
+
+// NoMemory Error Bypass [oomi_the_octo]
+@disabled
+02eebdf4 1F2003D5
