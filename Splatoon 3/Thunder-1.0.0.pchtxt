@@ -40,6 +40,10 @@
 @disabled
 02eebdf4 1F2003D5
 
+// NoMemory Error Bypass v2 [oomi_the_octo]
+@disabled
+02eebd60 C0035FD6
+
 // Signal Unlimiter [oomi_the_octo]
 @disabled
 026ac040 08008052
