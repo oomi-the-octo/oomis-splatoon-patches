@@ -1,0 +1,8 @@
+@nsobid-51A5F17583DE73E0038772960B42E091
+# Splatoon 2 1.0.0 March 2017 Prototype
+
+@flag offset_shift 0x100
+
+// LAN DummyMatch [oomi_the_octo]
+@disabled
+00d1cb50 28008052
