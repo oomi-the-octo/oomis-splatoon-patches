@@ -16,6 +16,11 @@
 @disabled
 015fdd2c 20008052C0035FD6
 
+// Redirect Shop Scene to "UdgwTest::Scene::Scene" [oomi_the_octo]
+@disabled
+001fa1b0 00008252
+001fa1c0 2d3e3094
+
 // Redirect Shop Scene to "GearUnsetupTest::Scene::Scene" [oomi_the_octo]
 @disabled
 001fa1b0 00008252
