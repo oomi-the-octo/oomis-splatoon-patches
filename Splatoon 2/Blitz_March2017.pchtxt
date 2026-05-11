@@ -15,3 +15,8 @@
 // Force "Lp::Utl::Matching::isLogIn" to be true [oomi_the_octo]
 @disabled
 015fdd2c 20008052C0035FD6
+
+// Redirect Shop Scene to "GearUnsetupTest::Scene::Scene" [oomi_the_octo]
+@disabled
+001fa1b0 00008252
+001fa1c0 2da52c94 
