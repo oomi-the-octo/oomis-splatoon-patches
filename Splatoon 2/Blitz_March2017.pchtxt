@@ -11,3 +11,7 @@
 @disabled
 00a94d20 08008052
 00a94d9c 08008052
+
+// Force "Lp::Utl::Matching::isLogIn" to be true [oomi_the_octo]
+@disabled
+015fdd2c 20008052C0035FD6
