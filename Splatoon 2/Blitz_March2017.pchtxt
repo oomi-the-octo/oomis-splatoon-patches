@@ -16,6 +16,16 @@
 @disabled
 015fdd2c 20008052C0035FD6
 
+// All Gear is Buyable [Pirlo]
+@disabled
+0003e454 08008052
+0003e5a8 FFE71FB9
+
+// Show cImpossible Gear in Inventory [Pirlo]
+@disabled
+0023b060 1F2003D5
+0023b5b4 1F2003D5
+
 // Redirect Shop Scene to "UdgwTest::Scene::Scene" [oomi_the_octo]
 @disabled
 001fa1b0 00008252
