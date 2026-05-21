@@ -46,7 +46,7 @@
 012D56D4 1F2003D5
 
 // Debug Schedule Display [gomashio]
-@enabled
+@disabled
 0016909C 1F2003D5
 001691C0 1F2003D5
 001693C4 1F2003D5
@@ -56,7 +56,7 @@
 
 // If you want to remove the black background, add 0006818C 1F2003D5 to the patch.
 // SceneMemChecker Display [gomashio]
-@enabled
+@disabled
 00067168 1F2003D5
 00067D04 1F2003D5
 00067D0C 1F2003D5
@@ -76,7 +76,7 @@
 02B7614A "TestField00"
 
 // PrivateMatch One Player Playable [gomashio]
-@enabled
+@disabled
 001C871C 35000014
 001D0424 35000014
 00D6D198 21008052
@@ -92,13 +92,13 @@
 016867FC 0A000014
 
 // Always Grizzco industries Open [gomashio]
-@enabled
+@disabled
 0016831C 29008052
 00168320 090100B9
 00168324 C0035FD6
 
 // Force Splatfest [gomashio]
-@enabled
+@disabled
 00169EC8 49008052
 00169ECC 090100B9
 00169ED0 C0035FD6
