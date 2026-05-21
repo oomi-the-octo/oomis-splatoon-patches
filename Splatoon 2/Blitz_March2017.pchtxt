@@ -40,3 +40,65 @@
 @disabled
 001fa1b0 00008252
 001fa1c0 48b63094
+
+// Debug Frame Draw Display [gomashio]
+@disabled
+012D56D4 1F2003D5
+
+// Debug Schedule Display [gomashio]
+@enabled
+0016909C 1F2003D5
+001691C0 1F2003D5
+001693C4 1F2003D5
+001694E0 1F2003D5
+001695E8 1F2003D5
+0016970C 1F2003D5
+
+// If you want to remove the black background, add 0006818C 1F2003D5 to the patch.
+// SceneMemChecker Display [gomashio]
+@enabled
+00067168 1F2003D5
+00067D04 1F2003D5
+00067D0C 1F2003D5
+00067D4C 1F2003D5
+00067D54 1F2003D5
+00067E68 1F2003D5
+00067E88 1F2003D5
+00068058 1F2003D5
+00068060 1F2003D5
+000680A0 1F2003D5
+000680A8 1F2003D5
+000680B4 1F2003D5
+000680C0 1F2003D5
+
+// Replace ShootingRange Map to "TestField00" [gomashio]
+@disabled
+02B7614A "TestField00"
+
+// PrivateMatch One Player Playable [gomashio]
+@enabled
+001C871C 35000014
+001D0424 35000014
+00D6D198 21008052
+00D8FF6C 1F2003D5
+00D90964 21008052
+
+// Since this patch disables online communication entirely, please disable it if you wish to play online.
+// Offline Lobby [gomashio]
+@disabled
+00D06A54 1B000014
+014ED304 20008052C0035FD6
+014E2BF4 D4000014
+016867FC 0A000014
+
+// Always Grizzco industries Open [gomashio]
+@enabled
+0016831C 29008052
+00168320 090100B9
+00168324 C0035FD6
+
+// Force Splatfest [gomashio]
+@enabled
+00169EC8 49008052
+00169ECC 090100B9
+00169ED0 C0035FD6
