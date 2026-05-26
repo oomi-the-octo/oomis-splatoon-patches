@@ -3,6 +3,17 @@
 
 @flag offset_shift 0x100
 
+// Online Everywhere [oomi_the_octo]
+@disabled
+01354db8 08008052 // Set mode to cVersus (isCurrentModeOnline)
+000b2500 00008052 // Force "setupPlayerInfo" as cVersus (forces dummy gear at boot, until i find a better system...)
+014cb3d0 487a00f008593791 // Redirect to Plaza (Private Battles)
+
+// Online Everywhere - Plaza Crash Fix [Ro]
+@disabled
+01004A24 ED942A94
+01AA9DD8 FD7BBFA9BDE198971F0C00716000005460C247F9E484D797FD7BC1A8C0035FD6
+
 // You will need a dump of Splatoon 2 BCAT rotation for this.
 // Use rotation from "DebugUnderPilot/bcat/" [oomi_the_octo]
 @disabled
