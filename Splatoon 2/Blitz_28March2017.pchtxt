@@ -102,3 +102,12 @@
 00169EC8 49008052
 00169ECC 090100B9
 00169ED0 C0035FD6
+
+// Boot 2 Debug Menu [oomi_the_octo]
+@disabled
+00d08dd8 20008052
+
+// Crashes in plaza. Use "Boot 2 Debug Menu" !!!
+// Force Load All Units [oomi_the_octo]
+@disabled
+00112c0c 20008052
