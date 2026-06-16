@@ -111,3 +111,7 @@
 // Force Load All Units [oomi_the_octo]
 @disabled
 00112c0c 20008052
+
+// Force Draw TimeStamp [oomi_the_octo]
+@disabled
+01523014 1F2003D5
