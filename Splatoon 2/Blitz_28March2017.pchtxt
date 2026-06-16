@@ -115,3 +115,8 @@
 // Force Draw TimeStamp [oomi_the_octo]
 @disabled
 01523014 1F2003D5
+
+// Replace Tutorial with anything (41 character limit) [oomi_the_octo]
+@disabled
+00064650 08810491
+02b76120 "TestField1763_Ttr"
