@@ -19,3 +19,11 @@
 @disabled
 02748568 08008052
 02748758 09008052
+
+// NoMemory Error Bypass [oomi_the_octo]
+@disabled
+030417e8 1F2003D5
+
+// NoMemory Error Bypass v2 [oomi_the_octo]
+@disabled
+03041750 C0035FD6
