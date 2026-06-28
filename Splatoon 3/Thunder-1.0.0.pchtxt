@@ -11,6 +11,11 @@
 @disabled
 02492120 20008052C0035FD6
 
+// Bomb Rapidfire v2 [oomi_the_octo]
+@disabled
+024b54d4 C0035FD6
+024a1020 1F2003D5
+
 // Show ALL Weapons In Shop (Use At Boot) [oomi_the_octo]
 @disabled
 01419f64 E8031F2A
