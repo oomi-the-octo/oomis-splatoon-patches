@@ -14,3 +14,8 @@
 013971c8 E8031F2A // Season
 01397368 E8031F2A // UrokoUnlockLevel
 013967b8 E8031F2A // UrokoPrice
+
+// Signal Unlimiter [oomi_the_octo]
+@disabled
+02748568 08008052
+02748758 09008052
