@@ -60,3 +60,9 @@
 04F52176 1F2003D5
 05011D85 1F2003D5
 04F48653 1F2003D5
+
+// This patch requires the DLC in order to work.
+// Unlock Inkopolis Square [BluCharro]
+@disabled
+03B46C6C 48008052
+03B46CAC 88018052
