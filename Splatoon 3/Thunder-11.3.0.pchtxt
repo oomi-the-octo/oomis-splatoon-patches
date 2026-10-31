@@ -66,3 +66,32 @@
 @disabled
 03B46C6C 48008052
 03B46CAC 88018052
+
+// Infinite Ink [Tototcs]
+@enabled
+02887F1C 20008052
+
+// I can't shoot :( [Tototcs]
+@disabled
+0287710C 1F2003D5
+02877408 1F2003D5
+
+// Always see the ink value [Tototcs]
+@disabled
+0287D6D4 3B008052
+0287D758 21008052
+0287D760 22008052
+0287D770 23008052
+0287D850 28008052
+
+// Hide UI [Tototcs]
+@disabled
+00AA5880 C0035FD6
+
+// Invert Mouvements [Tototcs]
+@disabled
+014cb190 C0035FD6
+
+// Disable Gravity [Tototcs]
+@disabled
+02911d60 C0035FD6
