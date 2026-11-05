@@ -73,6 +73,11 @@
 
 // I can't shoot :( [Tototcs]
 @disabled
+0287710C 1F2003D5
+02877408 1F2003D5
+
+// I can't shoot with brush :( [Tototcs]
+@disabled
 02959090 C0035FD6
 
 // Always see the ink value [Tototcs]
