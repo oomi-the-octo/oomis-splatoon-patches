@@ -103,3 +103,18 @@
 // Disable Gravity [Tototcs]
 @disabled
 02911d60 C0035FD6
+
+// Force Heavy Fog Everywhere [Tototcs]
+// Forces DepthFog to be active everywhere with dense fog (Start: 0m, End: 50m)
+@disabled
+012ec540 08F0A752
+012ec544 0949A852
+012ec548 087C0029
+012ec54c 09200129
+012ec550 08200229
+012ec554 081800B9
+012ec558 C0035FD6
+0139a258 2B000014
+0140e5b8 20008052
+0140e5bc C0035FD6
+0140e6ec 2A000014
