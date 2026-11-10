@@ -108,7 +108,7 @@
 // Forces DepthFog to be active everywhere with dense fog (Start: 0m, End: 50m)
 @disabled
 012ec540 08F0A752
-012ec544 0949A852
+012ec544 0949A852 ; End distance : 09C8A852 = 100m, 0916A852 = 150m
 012ec548 087C0029
 012ec54c 09200129
 012ec550 08200229
