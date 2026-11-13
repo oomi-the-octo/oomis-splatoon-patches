@@ -118,3 +118,7 @@
 0140e5b8 20008052
 0140e5bc C0035FD6
 0140e6ec 2A000014
+
+// No Death Zones [Pirlo]
+@disabled
+0284C918 20008052
