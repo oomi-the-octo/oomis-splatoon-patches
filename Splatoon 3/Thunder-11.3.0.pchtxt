@@ -66,3 +66,55 @@
 @disabled
 03B46C6C 48008052
 03B46CAC 88018052
+
+// Infinite Ink [Tototcs]
+@disabled
+02887F1C 20008052
+
+// Infinite Ink (better one) [Tototcs]
+@enabled
+02887E14 08E4002F
+
+// I can't shoot :( [Tototcs]
+@disabled
+0287710C 1F2003D5
+02877408 1F2003D5
+
+// I can't shoot with brush :( [Tototcs]
+@disabled
+02959090 C0035FD6
+
+// Always see the ink value [Tototcs]
+@disabled
+0287D6D4 3B008052
+0287D758 21008052
+0287D760 22008052
+0287D770 23008052
+0287D850 28008052
+
+// Hide UI [Tototcs]
+@disabled
+00AA5880 C0035FD6
+
+// Invert Mouvements [Tototcs]
+@disabled
+014cb190 C0035FD6
+
+// Disable Gravity [Tototcs]
+@disabled
+02911d60 C0035FD6
+
+// Force Heavy Fog Everywhere [Tototcs]
+// Forces DepthFog to be active everywhere with dense fog (Start: 0m, End: 50m)
+@disabled
+012ec540 08F0A752
+012ec544 0949A852 ; End distance : 09C8A852 = 100m, 0916A852 = 150m
+012ec548 087C0029
+012ec54c 09200129
+012ec550 08200229
+012ec554 081800B9
+012ec558 C0035FD6
+0139a258 2B000014
+0140e5b8 20008052
+0140e5bc C0035FD6
+0140e6ec 2A000014

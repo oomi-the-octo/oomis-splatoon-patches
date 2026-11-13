@@ -13,3 +13,4 @@ Absolutely! You can make a pull request to add your patches. **Make sure to also
 - [kirakira](https://x.com/its_kirakira)
 - [BluCharro](https://github.com/blucharro)
 - [gomashio](https://github.com/HG471)
+- [Tototcs_](https://github.com/Totgocpro)
