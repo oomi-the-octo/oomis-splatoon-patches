@@ -122,3 +122,21 @@
 // No Death Zones [Pirlo]
 @disabled
 0284C918 20008052
+
+// Sdodr Player SFX [Pirlo]
+@disabled
+02AEE1B8 28008052
+02AEE54C 29008052
+
+// Affects sounds of bullets and such
+// Missing some things
+// Sdodr Ink Sounds [Pirlo]
+@disabled
+02FC96E0 2A008052
+
+// Sdodr Player Models [Pirlo]
+@disabled
+02A8AE48 2A008052
+02A8AEEC 2A008052
+02A8AF3C 2A008052
+02A8B334 29008052
