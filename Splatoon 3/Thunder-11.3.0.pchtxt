@@ -139,7 +139,7 @@
 02A8AE48 2A008052
 02A8AEEC 2A008052
 02A8AF3C 2A008052
-02A8B334 29008052
+02A8B334 29008052 
 
 // No Post-Processing [Tototcs]
 // Disable a lot of random post-process effects (DOFGaussian, DOFCoC, Vignetting, VignettingCoC,
