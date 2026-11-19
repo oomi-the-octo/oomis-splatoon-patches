@@ -1,0 +1,8 @@
+@nsobid-6CBB16698653E1AF3C3A7602164819BB3750866B
+# Splatoon 3 12.0.0
+
+@flag offset_shift 0x100
+
+// Hide UI [Tototcs]
+@disabled
+00aa5b90 C0035FD6
