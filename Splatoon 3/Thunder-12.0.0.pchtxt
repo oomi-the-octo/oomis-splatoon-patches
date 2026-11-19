@@ -10,3 +10,7 @@
 // Infinite Ink [Tototcs]
 @disabled
 028884b4 08E4002F
+
+// Disable gravity [Tototcs]
+@disabled
+02912430 C0035FD6
