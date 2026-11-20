@@ -1,0 +1,20 @@
+@nsobid-6CBB16698653E1AF3C3A7602164819BB3750866B
+# Splatoon 3 12.0.0
+
+@flag offset_shift 0x100
+
+// Hide UI [Tototcs]
+@disabled
+00aa5b90 C0035FD6
+
+// Infinite Ink [Tototcs]
+@disabled
+028884b4 08E4002F
+
+// Disable gravity [Tototcs]
+@disabled
+02912430 C0035FD6
+
+// No Weapon [Tototcs]
+@disabled
+028863f0 C0035FD6
