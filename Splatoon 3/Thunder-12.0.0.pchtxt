@@ -14,3 +14,7 @@
 // Disable gravity [Tototcs]
 @disabled
 02912430 C0035FD6
+
+// No Weapon [Tototcs]
+@disabled
+028863f0 C0035FD6
